@@ -34,7 +34,10 @@ def parse_table(table, path, parser):
     # delete the table head from the DOM tree in order to keep parsing
     table.tr.decompose()
     for tr in table.find_all('tr'):
-        indexed_tds = zip(table_head, tr.find_all('td'))
+        tds = tr.find_all('td')
+        if len(tds) != len(table_head):
+            continue
+        indexed_tds = zip(table_head, tds)
         row = [parser.parse_cell(i[0], i[1]) for i in indexed_tds]
         f.write(','.join(row) + '\n')
     f.close()
