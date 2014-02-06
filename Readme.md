@@ -2,6 +2,12 @@
 ## Introduction
 This project attempt to keep an card data db and api for further use.
 
+## Prerequisites and installation
+* requests: pip install requests
+* beautifulsoup4: pip install beautifulsoup4
+Using pip as the package manager
+
+
 ## Data Source
 Currently, the data source is from:  
 http://hearthstone.gamepedia.com/  
