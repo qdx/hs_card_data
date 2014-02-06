@@ -1,0 +1,159 @@
+Name,Rarity,Class,Cost,Description
+Bananas,None,Any,1,Give a minion +1/+1.
+I Am Murloc,None,Any,4,Summon three, four, or five 1/1 Murlocs.
+Power of the Horde,None,Any,4,Summon a random Horde Warrior.
+Rogues Do It...,None,Any,4,Deal 4 damage. Draw a card.
+The Coin,None,Any,0,Gain 1 Mana Crystal this turn only.
+Excess Mana,None,Druid,0,Draw a card. (You can only have 10 Mana in your tray.)
+Claw,Free,Druid,1,Give your hero +2 Attack this turn and 2 Armor. The claw decides who will stay and who will go.
+Healing Touch,Free,Druid,3,Restore #8 Health. 8 Health, no waiting.
+Innervate,Free,Druid,0,Gain 2 Mana Crystals this turn only. Some druids still have flashbacks from strangers yelling "Innervate me!!" at them.
+Mark of the Wild,Free,Druid,2,Give a minion Taunt and +2/+2. (+2 Attack/+2 Health) Not to be confused with Jim of the Wild.
+Wild Growth,Free,Druid,2,Gain an empty Mana Crystal. Grow your own mana crystals with this Mana Crystal Growth Kit, only 39.99!
+Mark of Nature,Common,Druid,3,Choose One - Give a minion +4 Attack; or +4 Health and Taunt . Druids call it the "Mark of Nature."  Everyone else calls it "needing a bath."
+Moonfire,Common,Druid,0,Deal 1 damage. "Cast Moonfire, and never stop." - How to Be a Druid, Chapter 5, Section 3
+Naturalize,Common,Druid,1,Destroy a minion. Your opponent draws 2 cards. Another one bites the dust.
+Power of the Wild,Common,Druid,2,Choose One - Give your minions +1/+1; or Summon a 3/2 Panther. Never look a panther in the eye.  Or is it 'Always look a panther in the eye'?  Well, it's one of those.
+Savage Roar,Common,Druid,3,Give your characters +2 Attack this turn. What do they roar? Nobody can quite tell, but it sounds like "Elephant Macho Breeze".  It's probably not that, though.
+Soul of the Forest,Common,Druid,4,Give your minions " Deathrattle: Summon a 2/2 Treant." "Reforestation" is suddenly a terrifying word.
+Starfire,Common,Druid,6,Deal 5 damage.  Draw a card. Balance is important to druids.  This card is perfectly balanced.
+Swipe,Common,Druid,4,Deal 4 damage to an enemy and 1 damage to all other enemies. When a bear rears back and extends his arms, he's about to Swipe!  ... or hug.
+Wrath,Common,Druid,2,Choose One - Deal 3 damage to a minion; or 1 damage and draw a card. The talk around the Ratchet Inn is that this card is too good and should be a Legendary.
+Bite,Rare,Druid,4,Give your hero +4 Attack this turn and 4 Armor. Chew your food!
+Nourish,Rare,Druid,5,Choose One - Gain 2 Mana Crystals; or Draw 3 cards. Druids take nourishment from many things: the power of nature, the songbird's chirp, a chocolate cake.
+Savagery,Rare,Druid,1,Deal damage equal to your hero's Attack to a minion. It is true that some druids are savage, but others still enjoy a quiet moment and a spot of tea.
+Starfall,Rare,Druid,5,Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions. Is the sky falling?  Yes.  Yes it is.
+Force of Nature,Epic,Druid,6,Summon three 2/2 Treants with Charge that die at the end of the turn. "I think I'll just nap under these trees. Wait... AAAAAHHH!" - Blinkfizz, the Unfortunate Gnome
+Arcane Shot,Free,Hunter,1,Deal 2 damage. Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves.  The resulting loss of jobs sent Stormwind into a minor recession.
+Multi-Shot,Free,Hunter,4,Deal 3 damage to two random enemy minions. You see, it's all about throughput .
+Tracking,Free,Hunter,1,Look at the top three cards of your deck. Draw one and discard the others. For the person who just cannot decide what card to put in their deck!
+Animal Companion,Common,Hunter,3,Summon a random Beast Companion. You could summon Misha, Leokk, or Huffer!  Huffer is more trouble than he's worth.
+Deadly Shot,Common,Hunter,3,Destroy a random enemy minion. Accuracy is not a highly valued trait among the mok'nathal.  Deadliness is near the top, though.
+Explosive Trap,Common,Hunter,2,Secret: When your hero is attacked, deal 2 damage to all enemies. It traps your food AND cooks it for you!
+Freezing Trap,Common,Hunter,2,Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more. "Dang, that's cold." - appropriate response to Freezing Trap, or a mean joke.
+Hunter's Mark,Common,Hunter,0,Change a minion's Health to 1. Never play 'Hide and Go Seek' with a  Hunter.
+Kill Command,Common,Hunter,3,Deal 3 damage.  If you have a Beast, deal 5 damage instead. "Kill!", he commanded.
+Snipe,Common,Hunter,2,Secret: When your opponent plays a minion, deal 4 damage to it. A great sniper hits the spot.  Just like a delicious flank of boar. Mmmmm.
+Unleash the Hounds,Common,Hunter,2,For each enemy minion, summon a 1/1 Hound with Charge . You must read the name of this card out loud each time you play it.
+Explosive Shot,Rare,Hunter,5,Deal 5 damage to a minion and 2 damage to adjacent ones. Pull the pin, count to 5, then shoot.  Then duck.
+Flare,Rare,Hunter,1,All minions lose Stealth . Destroy all enemy Secrets . Draw a card. Not only does it reveal your enemies, but its also great for parties!
+Misdirection,Rare,Hunter,2,Secret: When a character attacks your hero, instead he attacks another random character. Sometimes it's as simple as putting on a fake mustache and pointing at someone else.
+Bestial Wrath,Epic,Hunter,1,Give a Beast +2 Attack and Immune this turn. The seething wrath is just beneath the surface.  Beneath that is wild abandon, followed by slight annoyance.
+Snake Trap,Epic,Hunter,2,Secret: When one of your minions is attacked, summon three 1/1 Snakes. Why did it have to be snakes?
+Arcane Explosion,Free,Mage,2,Deal 1 damage to all enemy minions. This spell is much better than Arcane Implosion.
+Arcane Intellect,Free,Mage,3,Draw 2 cards. Playing this card makes you SMARTER.  And let's face it: we could all stand to be a little smarter.
+Arcane Missiles,Free,Mage,1,Deal 3 damage randomly split among enemy characters. You'd think you'd be able to control your missiles a little better since you're a powerful mage and all.
+Fireball,Free,Mage,4,Deal 6 damage. This spell is useful for burning things.  If you're looking for spells that toast things, or just warm them a little, you're in the wrong place.
+Polymorph,Free,Mage,4,Transform a minion into a 1/1 Sheep. There was going to be a pun in this flavor text, but it just came out baa-d.
+Cone of Cold,Common,Mage,4,Freeze a minion and the minions next to it, and deal 1 damage to them. Magi of the Kirin Tor were casting Cubes of Cold for many years before Cones came into fashion some 90 years ago.
+Flamestrike,Common,Mage,7,Deal 4 damage to all enemy minions. When the ground is on fire, you should not stop, drop, and roll.
+Frost Nova,Common,Mage,3,Freeze all enemy minions. Hey man, that's cold.  Literally and metaphorically.
+Frostbolt,Common,Mage,2,Deal 3 damage to a character and Freeze it. It is customary to yell "Chill out!" or "Freeze!" or "Ice ice, baby!" when you play this card.
+Ice Barrier,Common,Mage,3,Secret: As soon as your hero is attacked, gain 8 Armor. This is Rank 1.  Rank 2 is Chocolate Milk Barrier.
+Ice Lance,Common,Mage,1,Freeze a character. If it was already Frozen , deal 4 damage instead. The trick is not to break the lance.  Otherwise, you have "Ice Pieces."  Ice Pieces aren't as effective.
+Mirror Entity,Common,Mage,3,Secret: When your opponent plays a minion, summon a copy of it. "You go first." - Krush'gor the Behemoth, to his pet boar.
+Mirror Image,Common,Mage,1,Summon two 0/2 minions with Taunt . Oh hey it's Mirror Image! !egamI rorriM s'ti yeh hO
+Blizzard,Rare,Mage,6,Deal 2 damage to all enemy minions and Freeze them. This spell can be very Entertaining.
+Counterspell,Rare,Mage,3,Secret: When your opponent casts a spell, Counter it. What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face.
+Vaporize,Rare,Mage,3,Secret: When a minion attacks your hero, destroy it. Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card.  We may never know the truth.
+Ice Block,Epic,Mage,3,Secret: When your hero takes fatal damage, prevent it and become Immune this turn. Ice is nice, and will suffice!
+Pyroblast,Epic,Mage,10,Deal 10 damage. Take the time for an evil laugh after you draw this card.
+Spellbender,Epic,Mage,3,Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target. While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild.  It just feels meaner.  And blood elves... well, they're a little mean.
+Blessing of Might,Free,Paladin,1,Give a minion +3 Attack. "As in, you MIGHT want to get out of my way." - Toad Mackle, recently buffed.
+Hammer of Wrath,Free,Paladin,4,Deal 3 damage.  Draw a card. A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.
+Hand of Protection,Free,Paladin,1,Give a minion Divine Shield . This spell has been renamed so many times, even paladins don’t know what it should be called anymore.
+Holy Light,Free,Paladin,2,Restore #6 Health. If you are often bathed in Holy Light, you should consider wearing sunscreen.
+Blessing of Kings,Common,Paladin,4,Give a minion +4/+4. (+4 Attack/+4 Health) Given the number of kings who have been assassinated, are you sure you want their blessing?
+Blessing of Wisdom,Common,Paladin,1,Choose a minion.  Whenever it attacks, draw a card. Apparently with wisdom comes the knowledge that you should probably be attacking every turn.
+Consecration,Common,Paladin,4,Deal 2 damage to all enemies. Consecrated ground glows with Holy energy.  But it smells a little, too.
+Eye for an Eye,Common,Paladin,1,Secret: When your hero takes damage, deal that much damage to the enemy hero. Justice sometimes takes the form of a closed fist into a soft cheek.
+Humility,Common,Paladin,1,Change a minion's Attack to 1. This card makes something really damp.  Oh wait.  That's "Humidity."
+Noble Sacrifice,Common,Paladin,1,Secret: When an enemy attacks, summon a 2/1 Defender as the new target. We will always remember you, "Defender!"
+Redemption,Common,Paladin,1,Secret: When one of your minions dies, return it to life with 1 Health. I am not sure how you get demptioned the first time.  It’s a mystery!
+Repentance,Common,Paladin,1,Secret: When your opponent plays a minion, reduce its Health to 1. Repentance often comes in the moment before obliteration. Curious.
+Blessed Champion,Rare,Paladin,5,Double a minion's Attack. This card causes double the trouble AND double the fun.
+Divine Favor,Rare,Paladin,3,Draw cards until you have as many in hand as your opponent. This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed!
+Equality,Rare,Paladin,2,Change the Health of ALL minions to 1. We are all special unique snowflakes... with 1 Health.
+Holy Wrath,Rare,Paladin,5,Draw a card and deal damage equal to its cost. C'mon Molten Giant!!
+Avenging Wrath,Epic,Paladin,6,Deal 8 damage randomly split among enemy characters. Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!
+Lay on Hands,Epic,Paladin,8,Restore #8 Health. Draw 3 cards. A grammatically awkward life saver.
+Holy Smite,Free,Priest,1,Deal 2 damage. It doesn't matter how pious you are.  Everyone needs a good smiting now and again.
+Mind Blast,Free,Priest,2,Deal 5 damage to the enemy hero. This spell blasts you directly in the MIND.
+Power Word: Shield,Free,Priest,1,Give a minion +2 Health. ' Draw a card. Sure the extra protection is nice, but the shield really reduces visibility.
+Shadow Word: Pain,Free,Priest,2,Destroy a minion with 3 or less Attack. A step up from a spell cast by many beginning  acolytes: "Shadow Word: Annoy".
+Circle of Healing,Common,Priest,0,Restore #4 Health to ALL minions. It isn't really a circle.
+Divine Spirit,Common,Priest,2,Double a minion's Health. Double the trouble. Double the fun!
+Holy Nova,Common,Priest,5,Deal 2 damage to all enemies.  Restore #2 Health to all  friendly characters. If the Holy Light forsakes you, good luck casting this spell.  Also, you're probably a jerk.
+Inner Fire,Common,Priest,1,Change a minion's Attack to be equal to its Health. Good idea: Buffing your minions.  Bad idea: Starting a conversation in the Barrens.
+Mind Control,Common,Priest,10,Take control of an enemy minion. Nominated as "Spell Most Likely to Make Your Opponent Punch the Wall."
+Mind Vision,Common,Priest,1,Put a copy of a random card in your opponent's hand into your hand. I see what you did there.
+Shadow Word: Death,Common,Priest,3,Destroy a minion with an Attack of 5 or more. If you miss, it leaves a lightning-bolt-shaped scar on your target.
+Silence,Common,Priest,0,Silence a minion. Reserved for enemy spellcasters, evil liches from beyond the grave, and karaoke nights at the Grim Guzzler.
+Thoughtsteal,Common,Priest,3,Copy 2 cards from your opponent's deck and put them into your hand. "What do you get when you cast Thoughtsteal on an Orc?  Nothing!" - Tauren joke
+Holy Fire,Rare,Priest,6,Deal 5 damage.  Restore #5 Health to your hero. Often followed by Holy Smokes!
+Mass Dispel,Rare,Priest,4,Silence all enemy minions. Draw a card. It dispels buffs, powers, hopes, and dreams.
+Shadow Madness,Rare,Priest,4,Gain control of an enemy minion with 3 or less Attack until end of turn. You can rationalize it all you want, it's still a mean thing to do.
+Mindgames,Epic,Priest,4,Put a copy of a random minion from your opponent's deck into the battlefield. Sometimes it feels like this is all a game.
+Shadowform,Epic,Priest,3,Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage. If a bright light shines on a priest in Shadowform… do they cast a shadow?
+Assassinate,Free,Rogue,5,Destroy an enemy minion. If you don't want to be assassinated, move to the Barrens and change your name. Good luck!
+Backstab,Free,Rogue,0,Deal 2 damage to an undamaged minion. It's funny how often yelling "Look over there!" gets your opponent to turn around.
+Deadly Poison,Free,Rogue,1,Give your weapon +2 Attack. Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells.  Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that.
+Sap,Free,Rogue,2,Return an enemy minion to your opponent's hand. Rogues love sappy movies.
+Sinister Strike,Free,Rogue,1,Deal 3 damage to the enemy hero. There's something about this strike that just feels off.  Sinister, even.
+Betrayal,Common,Rogue,2,An enemy minion deals its damage to the minions next to it. Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate.
+Cold Blood,Common,Rogue,1,Give a minion +2 Attack. Combo: +4 Attack instead. "I'm cold blooded, check it and see!"
+Conceal,Common,Rogue,1,Give your minions Stealth until your next turn. Rogues conceal everything but their emotions.  You can't get 'em to shut up about feelings.
+Eviscerate,Common,Rogue,2,Deal 2 damage. Combo: Deal 4 damage instead. There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor.
+Fan of Knives,Common,Rogue,3,Deal 1 damage to all enemy minions. Draw a card. I wouldn't say I LOVE knives, but I'm definitely a fan.
+Shadowstep,Common,Rogue,0,Return a friendly minion to your hand. It costs (2) less. Rogue dance troops will sometimes Shadowstep away at the end of a performance.  Crowds love it.
+Shiv,Common,Rogue,2,Deal 1 damage. Draw a card. Rogues are experts at SHIV-al-ry.
+Sprint,Common,Rogue,7,Draw 4 cards. Rogues are not good joggers.
+Vanish,Common,Rogue,6,Return all minions to their owner's hand.
+Blade Flurry,Rare,Rogue,2,Destroy your weapon and deal its damage to all enemies. "Look, it's not just about waving daggers around really fast.  It's a lot more complicated than that." - Shan, Rogue Trainer
+Headcrack,Rare,Rogue,3,Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn. When all else fails, nothing beats a swift whack upside the head.
+Preparation,Epic,Rogue,0,The next spell you cast this turn costs (3) less. "Be Prepared" - Rogue Motto
+Ancestral Healing,Free,Shaman,0,Restore a minion to full Health and give it Taunt . I personally prefer some non-ancestral right-the-heck-now healing, but maybe that is just me.
+Frost Shock,Free,Shaman,1,Deal 1 damage to an enemy character and Freeze it. FROST SHOCK!
+Hex,Free,Shaman,3,Transform a minion into a 0/1 Frog with Taunt . If you Hex a Murloc... it really isn't much of a change, is it?
+Rockbiter Weapon,Free,Shaman,1,Give a friendly character +3 Attack this turn. This would be real handy if your enemy is made of rock.
+Windfury,Free,Shaman,2,Give a minion Windfury . Windfury is like Earthfury and Firefury, but more light and airy.
+Bloodlust,Common,Shaman,5,Give your minions +3 Attack this turn. blaarghghLLGHRHARAAHAHHH!!
+Earth Shock,Common,Shaman,1,Silence a minion, then deal 1 damage to it. Earth Shock? Shouldn't it be "Azeroth Shock"?
+Forked Lightning,Common,Shaman,1,Deal 2 damage to 2 random enemy minions. Overload: (2) If you combine it with Spooned Lightning and Knived Lightning, you have the full dining set.
+Lightning Bolt,Common,Shaman,1,Deal 3 damage. Overload: (1) Lightning Bolt! Lightning Bolt! Lightning Bolt!
+Totemic Might,Common,Shaman,0,Give your Totems +2 Health. Totem-stomping is no longer recommended.
+Ancestral Spirit,Rare,Shaman,2,Choose a minion. When that minion is destroyed, return it to the battlefield. It was just a flesh wound.
+Feral Spirit,Rare,Shaman,3,Summon two 2/3 Spirit Wolves with Taunt . Overload: (2) Spirit wolves are like regular wolves with pom-poms.
+Lava Burst,Rare,Shaman,3,Deal 5 damage. Overload: (2) It's like an ocean of liquid magma in your mouth!
+Lightning Storm,Rare,Shaman,3,Deal 2-3 damage to all enemy minions. Overload: (2) An umbrella won't be effective, I'm afraid.
+Far Sight,Epic,Shaman,3,Draw a card. That card costs (3) less. Drek'thar can't see, but he can see . You know what I mean? It's ok if you don't.
+Drain Life,Free,Warlock,3,Deal 2 damage. Restore #2 Health to your hero. "I've just sucked one year of your life away."
+Hellfire,Free,Warlock,4,Deal 3 damage to ALL characters. It's spells like these that make it hard for Warlocks to get decent help.
+Shadow Bolt,Free,Warlock,3,Deal 4 damage to a minion. It’s a Bolt.   Its made out of Shadow.   What more do you need to know!
+Corruption,Common,Warlock,1,Choose an enemy minion.   At the start of your turn, destroy it. It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted!
+Demonfire,Common,Warlock,2,Deal 2 damage to a minion.   If it’s a friendly Demon, give it +2/+2 instead. Demonfire is like regular fire except for IT NEVER STOPS BURNING HELLLPPP
+Mortal Coil,Common,Warlock,1,Deal 1 damage to a minion. If that kills it, draw a card. If your spells look like horrifying skulls, let's be honest, you should get to draw some cards.
+Power Overwhelming,Common,Warlock,1,Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly. We cannot even describe how horrible the death is.  It's CRAZY bad!  Maybe worse than that.  Just don't do it.
+Sacrificial Pact,Common,Warlock,0,Destroy a Demon. Restore #5 Health to your hero. This is the reason that Demons never really become friends with Warlocks.
+Sense Demons,Common,Warlock,3,Put 2 random Demons from your deck into your hand. Generally demons are pretty obvious and you don’t need a spell to sense them.
+Soulfire,Common,Warlock,0,Deal 4 damage. Discard a random card. Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction.
+Shadowflame,Rare,Warlock,4,Destroy a friendly minion and deal its Attack damage to all enemy minions. Start with a powerful minion and stir in Shadowflame and you have a good time!
+Siphon Soul,Rare,Warlock,6,Destroy a minion. Restore #3 Health to your hero. You probably should avoid siphoning your own soul.  You might create some kind of weird infinite loop.
+Bane of Doom,Epic,Warlock,5,Deal 2 damage to a character.  If that kills it, summon a random Demon. My advice to you is to avoid Doom, if possible.
+Twisting Nether,Epic,Warlock,8,Destroy all minions. The Twisting Nether is a formless place of magic and illusion and destroyed minions.
+Charge,Free,Warrior,3,Give a friendly minion +2 Attack and Charge . "Guys! Guys! Slow down!" - some kind of non-warrior minion
+Execute,Free,Warrior,1,Destroy a damaged enemy minion. It's okay, he deserved it.
+Heroic Strike,Free,Warrior,2,Give your hero +4 Attack this turn. Really, if you're a hero, this is every strike.
+Battle Rage,Common,Warrior,2,Draw a card for each damaged friendly character. "You won't like me when I'm angry."
+Cleave,Common,Warrior,2,Deal 2 damage to two random enemy minions. Hey you two…could you stand next to each other for a second…
+Inner Rage,Common,Warrior,0,Deal 1 damage to a minion and give it +2 Attack. They're only smiling on the outside.
+Rampage,Common,Warrior,2,Give a damaged minion +3/+3. Minion get ANGRY.   Minion SMASH!
+Shield Block,Common,Warrior,3,Gain 5 Armor.  Draw a card. Shields were invented because Face Block is USELESS.
+Slam,Common,Warrior,2,Deal 2 damage to a minion.  If it survives, draw a card. "Dun da dun, dun da dun": if you've heard an ogre sing this, it's too late.
+Whirlwind,Common,Warrior,1,Deal 1 damage to ALL minions. The way to tell seasoned warriors from novice ones: the novices yell "wheeeee" while whirlwinding.
+Commanding Shout,Rare,Warrior,2,Your minions can't be reduced below 1 Health this turn.  Draw a card. "Shout! Shout! Let it all out!" - Advice to warriors-in-training
+Mortal Strike,Rare,Warrior,4,Deal 4 damage.  If your hero has 12 or less Health, deal 6 damage instead. "If you only use one ability, use Mortal Strike." - The Warrior Code, Line 6
+Upgrade!,Rare,Warrior,1,If you have a weapon, give it +1/+1.  Otherwise equip a 1/3 weapon. Easily worth 50 DKP.
+Brawl,Epic,Warrior,5,Destroy all minions except one.  (chosen randomly) Do you know the first rule of Brawl Club?
+Shield Slam,Epic,Warrior,1,Deal 1 damage to a minion for each Armor you have. "What is a better weapon? The sharp one your enemies expect, or the blunt one they ignore?" - The Art of Warrior, Chapter 9
+Showing all 160 cards

@@ -1,101 +1,70 @@
 import requests
 import codecs
-from parser import TableParser
-#import bs4
+import CellParser
 from bs4 import BeautifulSoup
-
-# okay, this code may looks like a giant mess, let's wrap it up:
-# 1. create classes that have class variables and main entrance
-# 2. classes need to be created includes CellParser, TableParser
-# 3. make use of first tier functions to build instances of
-#    CellParser dynamically, not sure TableParser should be done
-#    in the same way
-
-'''
-Html table structure analyzed:
-    Name        : td > a > TEXT
-    Rarity      : td > (span > TEXT + span > TEXT)
-    Subtype     : td > TEXT | td > span > TEXT
-    Class       : td > (span > (img + span > TEXT) )
-    Cost        : td > (TEXT + img)
-    Atk         : td > (TEXT + img)
-    HP          : td > (TEXT + img)
-    Description : td > (b > TEXT | i > TEXT | TEXT)*
-'''
-
-
-#def init_cell_parser(head_list):
-
 
 def get_clean_cardtable(soup):
     soup_table = soup.find(class_="cardtable")
     for n in soup.find_all(class_="narrowonly"):
         n.decompose()
+
     return soup_table
 
 
 def parse_table_head(tr):
-    table_head = []
-    for th in tr.find_all('th'):
-        table_head.append(th.string.strip())
-        return table_head
+    return [th for th in tr.stripped_strings]
 
 
-#def parse_table_row(tr):
-
-
-def name_parser(td):
-    return td.a.text
+def strip_cell_parser(td):
+    return " ".join([str for str in td.stripped_strings])
 
 
 def rarity_parser(td):
     td.span.decompose()
-    return td.span.text
+    return td.span.text.strip()
 
 
-def subtype_parser(td):
-    if td.string is None:
-        return td.span.text
-    else:
-        return td.text
-
-
-def class_parser(td):
-    return td.span.span.text
-
-
-def cost_atk_hp_parser(td):
-    td.img.decompose()
-    return td.text
-
-
-def description_parser(td):
-    return td.text
-
-
-def parse_table(table):
-    parser = TableParser()
-    parser.add_cell_parser('Name', name_parser)
-    parser.add_cell_parser('Rarity', rarity_parser)
-    parser.add_cell_parser('Subtype', subtype_parser)
-    parser.add_cell_parser('Class', class_parser)
-    parser.add_cell_parser('Cost', cost_atk_hp_parser)
-    parser.add_cell_parser('Atk', cost_atk_hp_parser)
-    parser.add_cell_parser('HP', cost_atk_hp_parser)
-    parser.add_cell_parser('Description', description_parser)
-
-    f = codecs.open("./data/testout.html", 'w', 'utf-8')
+def parse_table(table, path, parser):
+    # open output file
+    f = codecs.open(path, 'w', 'utf-8')
     # parse table head
     table_head = parse_table_head(table.tr)
     # write table head
     f.write(','.join(table_head) + '\n')
-    # delete the table head in order to keep parsing
+    # delete the table head from the DOM tree in order to keep parsing
     table.tr.decompose()
     for tr in table.find_all('tr'):
-        tds = tr.find_all('td')
-        indexed_tds = zip(table_head, tds)
+        indexed_tds = zip(table_head, tr.find_all('td'))
+        row = [parser.parse_cell(i[0], i[1]) for i in indexed_tds]
+        f.write(','.join(row) + '\n')
+    f.close()
 
-minion_page = requests.get("http://hearthstone.gamepedia.com/Minion")
-soup = BeautifulSoup(minion_page.text)
-cards = get_clean_cardtable(soup)
-parse_table(cards)
+
+def get_hs_gamepedia_parser():
+    # construct the cell parser
+    parser = CellParser.CellParser()
+    parser.add_cell_parser('Name', strip_cell_parser)
+    parser.add_cell_parser('Rarity', rarity_parser)
+    parser.add_cell_parser('Subtype', strip_cell_parser)
+    parser.add_cell_parser('Class', strip_cell_parser)
+    parser.add_cell_parser('Cost', strip_cell_parser)
+    parser.add_cell_parser('Atk', strip_cell_parser)
+    parser.add_cell_parser('HP', strip_cell_parser)
+    parser.add_cell_parser('Description', strip_cell_parser)
+    return parser
+
+
+def fetch_parse_data(url, path, parser):
+    minion_page = requests.get(url)
+    soup = BeautifulSoup(minion_page.text)
+    cards = get_clean_cardtable(soup)
+    parse_table(cards, path, parser)
+
+
+parser = get_hs_gamepedia_parser()
+fetch_parse_data("http://hearthstone.gamepedia.com/Minion",
+                 "./data/minions.csv", parser)
+fetch_parse_data("http://hearthstone.gamepedia.com/Spell_cards",
+                 "./data/spell.csv", parser)
+fetch_parse_data("http://hearthstone.gamepedia.com/Equipment_cards",
+                 "./data/weapon.csv", parser)
