@@ -1,5 +1,6 @@
 import requests
 import codecs
+from parser import TableParser
 #import bs4
 from bs4 import BeautifulSoup
 
@@ -43,15 +44,56 @@ def parse_table_head(tr):
 #def parse_table_row(tr):
 
 
+def name_parser(td):
+    return td.a.text
+
+
+def rarity_parser(td):
+    td.span.decompose()
+    return td.span.text
+
+
+def subtype_parser(td):
+    if td.string is None:
+        return td.span.text
+    else:
+        return td.text
+
+
+def class_parser(td):
+    return td.span.span.text
+
+
+def cost_atk_hp_parser(td):
+    td.img.decompose()
+    return td.text
+
+
+def description_parser(td):
+    return td.text
+
+
 def parse_table(table):
+    parser = TableParser()
+    parser.add_cell_parser('Name', name_parser)
+    parser.add_cell_parser('Rarity', rarity_parser)
+    parser.add_cell_parser('Subtype', subtype_parser)
+    parser.add_cell_parser('Class', class_parser)
+    parser.add_cell_parser('Cost', cost_atk_hp_parser)
+    parser.add_cell_parser('Atk', cost_atk_hp_parser)
+    parser.add_cell_parser('HP', cost_atk_hp_parser)
+    parser.add_cell_parser('Description', description_parser)
+
     f = codecs.open("./data/testout.html", 'w', 'utf-8')
-    # parse and write table head
-    f.write(','.join(parse_table_head(table.tr)) + '\n')
+    # parse table head
+    table_head = parse_table_head(table.tr)
+    # write table head
+    f.write(','.join(table_head) + '\n')
     # delete the table head in order to keep parsing
     table.tr.decompose()
     for tr in table.find_all('tr'):
-        f.write(tr.td.a.text + "\n")
-        f.close()
+        tds = tr.find_all('td')
+        indexed_tds = zip(table_head, tds)
 
 minion_page = requests.get("http://hearthstone.gamepedia.com/Minion")
 soup = BeautifulSoup(minion_page.text)
