@@ -19,6 +19,13 @@ def strip_cell_parser(td):
     return " ".join([str for str in td.stripped_strings])
 
 
+# discard the info content in description
+def description_parser(td):
+    for i in td.find_all('i'):
+        i.decompose()
+    return strip_cell_parser(td)
+
+
 def rarity_parser(td):
     td.span.decompose()
     return td.span.text.strip()
@@ -53,7 +60,7 @@ def get_hs_gamepedia_parser():
     parser.add_cell_parser('Cost', strip_cell_parser)
     parser.add_cell_parser('Atk', strip_cell_parser)
     parser.add_cell_parser('HP', strip_cell_parser)
-    parser.add_cell_parser('Description', strip_cell_parser)
+    parser.add_cell_parser('Description', description_parser)
     return parser
 
 
