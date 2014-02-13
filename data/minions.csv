@@ -2,6 +2,7 @@ Name,Rarity,Subtype,Class,Cost,Atk,HP,Description
 Chicken,None,Beast,Any,,1,1,
 Defias Bandit,None,General,Rogue,1,2,1,
 Emerald Drake,None,Dragon,,4,7,6,
+Flame of Azzinoth,None,General,Any,1,2,1,
 Gnoll,None,General,Any,2,2,2,Taunt
 Hound,None,Beast,Hunter,1,1,1,Charge
 Laughing Sister,None,General,,3,3,5,Can't be targeted by Spells or Hero Powers.
@@ -76,14 +77,12 @@ Faerie Dragon,Common,Dragon,Any,2,3,2,Can't be targeted by Spells or Hero Powers
 Fen Creeper,Common,General,Any,5,3,6,Taunt
 Fire Elemental,Common,General,Shaman,6,6,5,Battlecry: Deal 3 damage.
 Flame Imp,Common,Demon,Warlock,1,3,2,Battlecry: Deal 3 damage to your hero.
-Flame of Azzinoth,Common,General,Any,1,2,1,
 Flametongue Totem,Common,Totem,Shaman,2,,3,Adjacent minions have +2 Attack.
 Flesheating Ghoul,Common,General,Any,3,2,3,Whenever a minion dies, gain +1 Attack. '
 Frog,Common,Beast,Any,,,1,Taunt
 Frost Elemental,Common,General,Any,6,5,5,Battlecry: Freeze a character.
 Frostwolf Grunt,Common,General,Any,2,2,2,Taunt
 Frostwolf Warlord,Common,General,Any,5,4,4,Battlecry: Gain +1/+1 for each other friendly minion on the battlefield.
-Gnoll,Common,General,Any,1,1,1,
 Gnomish Inventor,Common,General,Any,4,2,4,Battlecry: Draw a card.
 Goldshire Footman,Common,General,Any,1,1,2,Taunt
 Grimscale Oracle,Common,Murloc,Any,1,1,1,ALL other Murlocs have +1 Attack.
