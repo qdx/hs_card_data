@@ -1,270 +1,270 @@
-Name,Rarity,Subtype,Class,Cost,Atk,HP,Description
-Chicken,None,Beast,Any,,1,1,
-Defias Bandit,None,General,Rogue,1,2,1,
-Emerald Drake,None,Dragon,,4,7,6,
-Flame of Azzinoth,None,General,Any,1,2,1,
-Gnoll,None,General,Any,2,2,2,Taunt
-Hound,None,Beast,Hunter,1,1,1,Charge
-Laughing Sister,None,General,,3,3,5,Can't be targeted by Spells or Hero Powers.
-Murloc,None,Murloc,Any,1,1,1,
-Treant,None,General,Druid,1,2,2,
-Treant,None,General,Druid,1,2,2,Taunt
-Violet Apprentice,None,General,Any,,1,1,
-Whelp,None,Dragon,Any,1,1,1,
-Bloodfen Raptor,Free,Beast,Any,2,3,2,
-Boulderfist Ogre,Free,General,Any,6,6,7,
-Healing Totem,Free,Totem,Shaman,1,,2,At the end of your turn, restore 1 Health to all friendly minions.
-Houndmaster,Free,General,Hunter,4,4,3,Battlecry: Give a friendly Beast +2/+2 and Taunt .
-Magma Rager,Free,General,Any,3,5,1,
-Murloc Raider,Free,Murloc,Any,1,2,1,
-Nightblade,Free,General,Any,5,4,4,Battlecry: Deal 3 damage to the enemy hero.
-Northshire Cleric,Free,General,Priest,1,1,3,Whenever a minion is healed, draw a card.
-Novice Engineer,Free,General,Any,2,1,1,Battlecry: Draw a card.
-Oasis Snapjaw,Free,Beast,Any,4,2,7,
-Raid Leader,Free,General,Any,3,2,2,Your other minions have +1 Attack.
-Reckless Rocketeer,Free,General,Any,6,5,2,Charge
-River Crocolisk,Free,Beast,Any,2,2,3,
-Searing Totem,Free,Totem,Shaman,1,1,1,
-Sen'jin Shieldmasta,Free,General,Any,4,3,5,Taunt
-Silver Hand Recruit,Free,General,Paladin,1,1,1,
-Stoneclaw Totem,Free,Totem,Shaman,1,,2,Taunt
-Stonetusk Boar,Free,Beast,Any,1,1,1,Charge
-Succubus,Free,Demon,Warlock,2,4,3,Battlecry: Discard a random card.
-Timber Wolf,Free,Beast,Hunter,1,1,1,Your other Beasts have +1 Attack.
-Voidwalker,Free,Demon,Warlock,1,1,3,Taunt
-Voodoo Doctor,Free,General,Any,1,2,1,Battlecry: Restore 2 Health.
-Warsong Commander,Free,General,Warrior,3,2,3,Whenever you summon a minion with 3 or less Attack, give it Charge .
-Wolfrider,Free,General,Any,3,3,1,Charge
-Wrath of Air Totem,Free,Totem,Shaman,1,,2,Spell Damage +1
-Abusive Sergeant,Common,General,Any,1,2,1,Battlecry: Give a minion +2 Attack this turn.
-Acidic Swamp Ooze,Common,General,Any,2,3,2,Battlecry: Destroy your opponent's weapon.
-Acolyte of Pain,Common,General,Any,3,1,3,Whenever this minion takes damage, draw a card.
-Amani Berserker,Common,General,Any,2,2,3,Enrage: +3 Attack
-Ancient Brewmaster,Common,General,Any,4,5,4,Battlecry: Return a friendly minion from the battlefield to your hand.
-Arathi Weaponsmith,Common,General,Warrior,4,3,3,Battlecry: Equip a 2/2 weapon.
-Archmage,Common,General,Any,6,4,7,Spell Damage +1
-Argent Protector,Common,General,Paladin,2,2,2,Battlecry: Give a friendly minion Divine Shield .
-Argent Squire,Common,General,Any,1,1,1,Divine Shield
-Blood Imp,Common,Demon,Warlock,1,,1,Stealth . At the end of your turn, give another random friendly minion +1 Health.
-Bloodsail Raider,Common,Pirate,Any,2,2,3,Battlecry: Gain Attack equal to the Attack of your weapon.
-Bluegill Warrior,Common,Murloc,Any,2,2,1,Charge
-Boar,Common,Beast,Any,1,1,1,
-Booty Bay Bodyguard,Common,General,Any,5,5,4,Taunt
-Brewmaster,Common,General,Any,4,4,4,
-Chillwind Yeti,Common,General,Any,4,4,5,
-Core Hound,Common,Beast,Any,7,9,5,
-Cruel Taskmaster,Common,General,Warrior,2,2,2,Battlecry: Deal 1 damage to a minion and give it +2 Attack.
-Cult Master,Common,General,Any,4,4,2,Whenever one of your other minions dies, draw a card.
-Dalaran Mage,Common,General,Any,3,1,4,Spell Damage +1
-Damaged Golem,Common,General,Any,1,2,1,
-Dark Iron Dwarf,Common,General,Any,4,4,4,Battlecry: Give a minion +2 Attack this turn.
-Darkscale Healer,Common,General,Any,5,4,5,Battlecry: Restore 2 Health to all friendly characters.
-Defender,Common,General,Paladin,1,2,1,
-Defias Ringleader,Common,General,Rogue,2,2,2,Combo: Summon a 2/1 Defias Bandit.
-Devilsaur,Common,Beast,Any,5,5,5,
-Dire Wolf Alpha,Common,Beast,Any,2,2,2,Adjacent minions have +1 Attack.
-Dragonling Mechanic,Common,General,Any,4,2,4,Battlecry: Summon a 2/1 Mechanical Dragonling.
-Dread Corsair,Common,Pirate,Any,4,3,3,Taunt. Costs (1) less per Attack of your weapon.
-Dread Infernal,Common,Demon,Warlock,6,6,6,Battlecry: Deal 1 damage to ALL other characters.
-Druid of the Claw,Common,General,Druid,5,4,4,Charge
-Druid of the Claw,Common,General,Druid,5,4,6,Taunt
-Druid of the Claw,Common,General,Druid,5,4,4,Choose One - Charge ; or +2 Health and Taunt .
-Dust Devil,Common,General,Shaman,1,3,1,Windfury . Overload: (2)
-Earthen Ring Farseer,Common,General,Any,3,3,3,Battlecry: Restore 3 Health.
-Elven Archer,Common,General,Any,1,1,1,Battlecry: Deal 1 damage.
-Emboldener 3000,Common,General,Any,1,,4,At the end of your turn, give a random minion +1/+1.
-Faerie Dragon,Common,Dragon,Any,2,3,2,Can't be targeted by Spells or Hero Powers.
-Fen Creeper,Common,General,Any,5,3,6,Taunt
-Fire Elemental,Common,General,Shaman,6,6,5,Battlecry: Deal 3 damage.
-Flame Imp,Common,Demon,Warlock,1,3,2,Battlecry: Deal 3 damage to your hero.
-Flametongue Totem,Common,Totem,Shaman,2,,3,Adjacent minions have +2 Attack.
-Flesheating Ghoul,Common,General,Any,3,2,3,Whenever a minion dies, gain +1 Attack. '
-Frog,Common,Beast,Any,,,1,Taunt
-Frost Elemental,Common,General,Any,6,5,5,Battlecry: Freeze a character.
-Frostwolf Grunt,Common,General,Any,2,2,2,Taunt
-Frostwolf Warlord,Common,General,Any,5,4,4,Battlecry: Gain +1/+1 for each other friendly minion on the battlefield.
-Gnomish Inventor,Common,General,Any,4,2,4,Battlecry: Draw a card.
-Goldshire Footman,Common,General,Any,1,1,2,Taunt
-Grimscale Oracle,Common,Murloc,Any,1,1,1,ALL other Murlocs have +1 Attack.
-Guardian of Kings,Common,General,Paladin,7,5,6,Battlecry: Restore 6 Health to your hero.
-Gurubashi Berserker,Common,General,Any,5,2,7,Whenever this minion takes damage, gain +3 Attack.
-Harvest Golem,Common,General,Any,3,2,3,Deathrattle: Summon a 2/1 Damaged Golem.
-Homing Chicken,Common,General,Any,1,,1,At the start of your turn, destroy this minion and draw 3 cards.
-Huffer,Common,Beast,Hunter,3,4,2,Charge
-Infernal,Common,Demon,Warlock,6,6,6,
-Ironbark Protector,Common,General,Druid,8,8,8,Taunt
-Ironbeak Owl,Common,Beast,Any,2,2,1,Battlecry: Silence a minion.
-Ironforge Rifleman,Common,General,Any,3,2,2,Battlecry: Deal 1 damage.
-Ironfur Grizzly,Common,Beast,Any,3,3,3,Taunt
-Jungle Panther,Common,Beast,Any,3,4,2,Stealth
-Kobold Geomancer,Common,General,Any,2,2,2,Spell Damage +1
-Kor'kron Elite,Common,General,Warrior,4,4,3,Charge
-Leokk,Common,Beast,Hunter,3,2,4,Other friendly minions have +1 Attack.
-Leper Gnome,Common,General,Any,1,2,1,Deathrattle: Deal 2 damage to the enemy hero.
-Lightspawn,Common,General,Priest,4,,5,This minion's Attack is always equal to its Health.
-Loot Hoarder,Common,General,Any,2,2,1,Deathrattle: Draw a card.
-Lord of the Arena,Common,General,Any,6,6,5,Taunt
-Mad Bomber,Common,General,Any,2,3,2,Battlecry: Deal 3 damage randomly split between all other characters.
-Mana Wyrm,Common,General,Mage,1,1,3,Whenever you cast a spell, gain +1 Attack.
-Mechanical Dragonling,Common,General,Any,1,2,1,
-Mirror Image,Common,General,Mage,,,2,Taunt
-Misha,Common,Beast,Hunter,3,4,4,Taunt
-Mogu'shan Warden,Common,General,Any,4,1,7,Taunt
-Murloc Scout,Common,Murloc,Any,,1,1,
-Murloc Tidehunter,Common,Murloc,Any,2,2,1,Battlecry: Summon a 1/1 Murloc Scout.
-Ogre Magi,Common,General,Any,4,4,4,Spell Damage +1
-Panther,Common,Beast,Druid,2,3,2,
-Poultryizer,Common,General,Any,1,,3,At the start of your turn, transform a random minion into a 1/1 Chicken.
-Priestess of Elune,Common,General,Any,6,5,4,Battlecry: Restore 4 Health to your hero.
-Raging Worgen,Common,General,Any,3,3,3,Enrage: Windfury and +1 Attack
-Razorfen Hunter,Common,General,Any,3,2,3,Battlecry: Summon a 1/1 Boar.
-Repair Bot,Common,General,Any,1,,3,At the end of your turn, restore 6 Health to a damaged character.
-Scarlet Crusader,Common,General,Any,3,3,1,Divine Shield
-Scavenging Hyena,Common,Beast,Hunter,2,2,2,Whenever a friendly Beast dies, gain +2/+1.
-Shattered Sun Cleric,Common,General,Any,3,3,2,Battlecry: Give a friendly minion +1/+1.
-Sheep,Common,Beast,Any,,1,1,
-Shieldbearer,Common,General,Any,1,,4,Taunt
-Silver Hand Knight,Common,General,Any,5,4,4,Battlecry: Summon a 2/2 Squire.
-Silverback Patriarch,Common,Beast,Any,3,1,4,Taunt
-Silvermoon Guardian,Common,General,Any,4,3,3,Divine Shield
-Snake,Common,Beast,Hunter,,1,1,
-Sorcerer's Apprentice,Common,General,Mage,2,3,2,Your spells cost (1) less.
-Southsea Deckhand,Common,Pirate,Any,1,2,1,Has Charge while you have a weapon equipped.
-Spellbreaker,Common,General,Any,4,4,3,Battlecry: Silence a minion.
-Spiteful Smith,Common,General,Any,5,4,6,Enrage: Your weapon has +2 Attack.
-Squire,Common,General,Any,1,2,2,
-Squirrel,Common,Beast,Any,1,1,1,
-Starving Buzzard,Common,Beast,Hunter,2,2,1,Whenever you summon a Beast, draw a card.
-Stormpike Commando,Common,General,Any,5,4,2,Battlecry: Deal 2 damage.
-Stormwind Champion,Common,General,Any,7,6,6,Your other minions have +1/+1.
-Stormwind Knight,Common,General,Any,4,2,5,Charge
-Stranglethorn Tiger,Common,Beast,Any,5,5,5,Stealth
-Summoning Portal,Common,General,Warlock,4,,4,Your minions cost (2) less, but not less than (1).
-Tauren Warrior,Common,General,Any,3,2,3,Taunt . Enrage: +3 Attack
-Temple Enforcer,Common,General,Priest,6,6,6,Battlecry: Give a friendly minion +3 Health.
-Thrallmar Farseer,Common,General,Any,3,2,3,Windfury
-Treant,Common,General,Druid,1,2,2,Charge .  At the end of the turn, destroy this minion.
-Tundra Rhino,Common,Beast,Hunter,5,2,5,Your Beasts have Charge .
-Unbound Elemental,Common,General,Shaman,3,2,4,Whenever you play a card with Overload , gain +1/+1.
-Venture Co. Mercenary,Common,General,Any,5,7,6,Your minions cost (3) more.
-War Golem,Common,General,Any,7,7,7,
-Water Elemental,Common,General,Mage,4,3,6,Freeze any character damaged by this minion.
-Windfury Harpy,Common,General,Any,6,4,5,Windfury
-Windspeaker,Common,General,Shaman,4,3,3,Battlecry: Give a friendly minion Windfury .
-Wisp,Common,General,Any,,1,1,
-Worgen Infiltrator,Common,General,Any,1,2,1,Stealth
-Worthless Imp,Common,Demon,Warlock,1,1,1,
-Young Dragonhawk,Common,Beast,Any,1,1,1,Windfury
-Youthful Brewmaster,Common,General,Any,2,3,2,Battlecry: Return a friendly minion from the battlefield to your hand.
-Abomination,Rare,General,Any,5,4,4,Taunt . Deathrattle: Deal 2 damage to ALL characters.
-Alarm-o-Bot,Rare,General,Any,3,,3,At the start of your turn, swap this minion with a random one in your hand.
-Aldor Peacekeeper,Rare,General,Paladin,3,3,3,Battlecry: Change an enemy minion's Attack to 1.
-Ancient Mage,Rare,General,Any,4,2,5,Battlecry: Give adjacent minions Spell Damage +1 .
-Ancient Watcher,Rare,General,Any,2,4,5,Can't Attack.
-Angry Chicken,Rare,Beast,Any,1,1,1,Enrage: +5 Attack.
-Arcane Golem,Rare,General,Any,3,4,2,Charge . Battlecry: Give your opponent a Mana Crystal.
-Argent Commander,Rare,General,Any,6,4,2,Charge , Divine Shield
-Armorsmith,Rare,General,Warrior,2,1,4,Whenever a friendly minion takes damage, gain 1 Armor.
-Auchenai Soulpriest,Rare,General,Priest,4,3,5,Your cards and powers that restore Health now deal damage instead.
-Azure Drake,Rare,Dragon,Any,5,4,4,Spell Damage +1 . Battlecry: Draw a card.
-Bloodsail Corsair,Rare,Pirate,Any,1,1,2,Battlecry: Remove 1 Durability from your opponent's weapon.
-Coldlight Oracle,Rare,Murloc,Any,3,2,2,Battlecry: Each player draws 2 cards.
-Coldlight Seer,Rare,Murloc,Any,3,2,3,Battlecry: Give ALL other Murlocs +2 Health.
-Crazed Alchemist,Rare,General,Any,2,2,2,Battlecry: Swap the Attack and Health of a minion.
-Defender of Argus,Rare,General,Any,4,2,3,Battlecry: Give adjacent minions +1/+1 and Taunt .
-Demolisher,Rare,General,Any,3,1,4,At the start of your turn, deal 2 damage to a random enemy.
-Doomguard,Rare,Demon,Warlock,5,5,7,Charge . Battlecry: Discard two random cards.
-Emperor Cobra,Rare,Beast,Any,3,2,3,Destroy any minion damaged by this minion.
-Ethereal Arcanist,Rare,General,Mage,4,3,3,If you control a Secret at the end of your turn, gain +2/+2.
-Felguard,Rare,Demon,Warlock,3,3,5,Taunt . Battlecry: Destroy one of your Mana Crystals.
-Frothing Berserker,Rare,General,Warrior,3,2,4,Whenever a minion takes damage, gain +1 Attack.
-Gadgetzan Auctioneer,Rare,General,Any,5,4,4,Whenever you cast a spell, draw a card.
-Hyena,Rare,Beast,Hunter,2,2,2,
-Imp,Rare,Demon,Any,1,1,1,
-Imp Master,Rare,General,Any,3,1,5,At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.
-Injured Blademaster,Rare,General,Any,3,4,7,Battlecry: Deal 4 damage to HIMSELF.
-Keeper of the Grove,Rare,General,Druid,4,2,4,Choose One - Deal 2 damage; or Silence a minion.
-Kirin Tor Mage,Rare,General,Mage,3,4,3,Battlecry: The next Secret you play this turn costs (0).
-Knife Juggler,Rare,General,Any,2,3,2,After you summon a minion, deal 1 damage to a random enemy.
-Lightwarden,Rare,General,Any,1,1,2,Whenever a character is healed, gain +2 Attack.
-Lightwell,Rare,General,Priest,2,,5,At the start of your turn, restore 3 Health to a damaged friendly character.
-Mana Addict,Rare,General,Any,2,1,3,Whenever you cast a spell, gain +2 Attack this turn.
-Mana Tide Totem,Rare,Totem,Shaman,3,,3,At the end of your turn, draw a card.
-Mana Wraith,Rare,General,Any,2,2,2,ALL minions cost (1) more.
-Master Swordsmith,Rare,General,Any,2,1,3,At the end of your turn, give another random friendly minion +1 Attack.
-Master of Disguise,Rare,General,Rogue,4,4,4,Battlecry: Give a friendly minion Stealth .
-Mind Control Tech,Rare,General,Any,3,3,3,Battlecry: If your opponent has 4 or more minions, take control of one at random.
-Murloc Tidecaller,Rare,Murloc,Any,1,1,2,Whenever a Murloc is summoned, gain +1 Attack.
-Pint-Sized Summoner,Rare,General,Any,2,2,2,The first minion you play each turn costs (1) less.
-Questing Adventurer,Rare,General,Any,3,2,2,Whenever you play a card, gain +1/+1.
-Ravenholdt Assassin,Rare,General,Any,7,7,5,Stealth
-SI:7 Agent,Rare,General,Rogue,3,3,3,Combo: Deal 2 damage.
-Savannah Highmane,Rare,Beast,Hunter,6,6,5,Deathrattle: Summon two 2/2 Hyenas.
-Secretkeeper,Rare,General,Any,1,1,2,Whenever a Secret is played, gain +1/+1.
-Spirit Wolf,Rare,General,Shaman,2,2,3,Taunt
-Stampeding Kodo,Rare,Beast,Any,5,3,5,Battlecry: Destroy a random enemy minion with 2 or less Attack.
-Sunfury Protector,Rare,General,Any,2,2,3,Battlecry: Give adjacent minions Taunt .
-Sunwalker,Rare,General,Any,6,4,5,Taunt . Divine Shield
-Twilight Drake,Rare,Dragon,Any,4,4,1,Battlecry: Gain +1 Health for each card in your hand.
-Violet Teacher,Rare,General,Any,4,3,5,Whenever you cast a spell, summon a 1/1 Violet Apprentice.
-Void Terror,Rare,Demon,Warlock,3,3,3,Battlecry: Destroy the minions on either side of this minion and gain their Attack and Health.
-Wild Pyromancer,Rare,General,Any,2,3,2,After you cast a spell, deal 1 damage to ALL minions.
-Young Priestess,Rare,General,Any,1,2,1,At the end of your turn, give another random friendly minion +1 Health.
-Ancient of Lore,Epic,General,Druid,7,5,5,Choose One - Draw 2 cards; or Restore 5 Health.
-Ancient of War,Epic,General,Druid,7,5,5,Choose One - Taunt and +5 Health; or +5 Attack.
-Big Game Hunter,Epic,General,Any,3,4,2,Battlecry: Destroy a minion with an Attack of 7 or more.
-Blood Knight,Epic,General,Any,3,3,3,Battlecry: All minions lose Divine Shield . Gain +3/+3 for each Shield lost.
-Cabal Shadow Priest,Epic,General,Priest,6,4,5,Battlecry: Take control of an enemy minion that has 2 or less Attack.
-Captain's Parrot,Epic,Beast,Any,2,1,1,Battlecry: Put a random Pirate from your deck into your hand.
-Doomsayer,Epic,General,Any,2,,7,At the start of your turn, destroy ALL minions.
-Earth Elemental,Epic,General,Shaman,5,7,8,Taunt . Overload: (3)
-Faceless Manipulator,Epic,General,Any,5,3,3,Battlecry: Choose a minion and become a copy of it.
-Hungry Crab,Epic,Beast,Any,1,1,2,Battlecry: Destroy a Murloc and gain +2/+2.
-Kidnapper,Epic,General,Rogue,6,5,3,Combo: Return a minion to its owner's hand.
-Molten Giant,Epic,General,Any,20,8,8,Costs (1) less for each damage your hero has taken.
-Mountain Giant,Epic,General,Any,12,8,8,Costs (1) less for each other card in your hand.
-Murloc Warleader,Epic,Murloc,Any,3,3,3,ALL other Murlocs have +2/+1.
-Patient Assassin,Epic,General,Rogue,2,1,1,Stealth . Destroy any minion damaged by this minion.
-Pit Lord,Epic,Demon,Warlock,4,5,6,Battlecry: Deal 5 damage to your hero.
-Sea Giant,Epic,General,Any,10,8,8,Costs (1) less for each other minion on the battlefield.
-Shadow of Nothing,Epic,General,Priest,,,1,Mindgames whiffed! Your opponent had no minions!
-Southsea Captain,Epic,Pirate,Any,3,3,3,Your other Pirates have +1/+1.
-Spellbender,Epic,General,Mage,,1,3,
-Al'Akir the Windlord,Legendary,General,Shaman,8,3,5,Windfury, Charge, Divine Shield, Taunt
-Alexstrasza,Legendary,Dragon,Any,9,8,8,Battlecry: Set a hero's remaining Health to 15.
-Archmage Antonidas,Legendary,General,Mage,7,5,7,Whenever you cast a spell, put a 'Fireball' spell into your hand.
-Baine Bloodhoof,Legendary,General,Any,4,4,5,
-Baron Geddon,Legendary,General,Any,7,7,5,At the end of your turn, deal 2 damage to ALL other characters.
-Bloodmage Thalnos,Legendary,General,Any,2,1,1,Spell Damage +1 . Deathrattle: Draw a card.
-Cairne Bloodhoof,Legendary,General,Any,6,4,5,Deathrattle: Summon a 4/5 Baine Bloodhoof.
-Captain Greenskin,Legendary,Pirate,Any,5,5,4,Battlecry: Give your weapon +1/+1.
-Cenarius,Legendary,General,Druid,9,5,8,Choose One - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt .
-Deathwing,Legendary,Dragon,Any,10,12,12,Battlecry: Destroy all other minions and discard your hand.
-Edwin VanCleef,Legendary,General,Rogue,3,2,2,Combo: Gain +2/+2 for each card played earlier this turn.
-Elite Tauren Chieftain,Legendary,General,Any,5,5,5,Battlecry: Give both players the power to ROCK! (with a Power Chord card)
-Finkle Einhorn,Legendary,General,Any,2,3,3,
-Gelbin Mekkatorque,Legendary,General,Any,6,6,6,Battlecry: Summon an AWESOME invention.
-Grommash Hellscream,Legendary,General,Warrior,8,4,9,Charge . Enrage: +6 Attack
-Gruul,Legendary,General,Any,8,7,7,At the end of each turn, gain +1/+1 .
-Harrison Jones,Legendary,General,Any,5,5,4,Battlecry: Destroy your opponent's weapon and draw cards equal to its Durability.
-Hogger,Legendary,General,Any,6,4,4,At the end of your turn, summon a 2/2 Gnoll with Taunt .
-Illidan Stormrage,Legendary,Demon,Any,6,7,5,Whenever you play a card, summon a 2/1 Flame of Azzinoth.
-King Krush,Legendary,Beast,Hunter,9,8,8,Charge
-King Mukla,Legendary,Beast,Any,3,5,5,Battlecry: Give your opponent 2 Bananas.
-Leeroy Jenkins,Legendary,General,Any,4,6,2,Charge . Battlecry: Summon two 1/1 Whelps for your opponent.
-Lord Jaraxxus,Legendary,Demon,Warlock,9,3,15,Battlecry: Destroy your hero and replace him with Lord Jaraxxus.
-Lorewalker Cho,Legendary,General,Any,2,,4,Whenever a player casts a spell, put a copy into the other player’s hand.
-Malygos,Legendary,Dragon,Any,9,4,12,Spell Damage +5
-Millhouse Manastorm,Legendary,General,Any,2,4,4,Battlecry: Enemy spells cost (0) next turn.
-Nat Pagle,Legendary,General,Any,2,,4,At the end of your turn, you have a 50% chance to draw a card.
-Nozdormu,Legendary,Dragon,Any,9,8,8,Players only have 15 seconds to take their turns.
-Old Murk-Eye,Legendary,Murloc,Any,4,2,4,Charge . Has +1 Attack for each other Murloc on the battlefield.
-Onyxia,Legendary,Dragon,Any,9,8,8,Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.
-Prophet Velen,Legendary,General,Priest,7,7,7,Double the damage and healing of your spells and Hero Power.
-Ragnaros the Firelord,Legendary,General,Any,8,8,8,Can't Attack.  At the end of your turn, deal 8 damage to a random enemy.
-Sylvanas Windrunner,Legendary,General,Any,6,5,5,Deathrattle: Take control of a random enemy minion.
-The Beast,Legendary,Beast,Any,6,9,7,Deathrattle: Summon a 3/3 Finkle Einhorn for your opponent.
-The Black Knight,Legendary,General,Any,6,4,5,Battlecry: Destroy an enemy minion with Taunt .
-Tinkmaster Overspark,Legendary,General,Any,3,2,2,Battlecry: Transform a minion into a 5/5 Devilsaur or a 1/1 Squirrel at random.
-Tirion Fordring,Legendary,General,Paladin,8,6,6,Divine Shield . Taunt . Deathrattle: Equip a 5/3 Ashbringer.
-Ysera,Legendary,Dragon,Any,9,4,12,At the end of your turn, draw a Dream Card.
+Name&Rarity&Subtype&Class&Cost&Atk&HP&Description
+Chicken&None&Beast&Any&&1&1&
+Defias Bandit&None&General&Rogue&1&2&1&
+Emerald Drake&None&Dragon&&4&7&6&
+Flame of Azzinoth&None&General&Any&1&2&1&
+Gnoll&None&General&Any&2&2&2&Taunt
+Hound&None&Beast&Hunter&1&1&1&Charge
+Laughing Sister&None&General&&3&3&5&Can't be targeted by Spells or Hero Powers.
+Murloc&None&Murloc&Any&1&1&1&
+Treant&None&General&Druid&1&2&2&
+Treant&None&General&Druid&1&2&2&Taunt
+Violet Apprentice&None&General&Any&&1&1&
+Whelp&None&Dragon&Any&1&1&1&
+Bloodfen Raptor&Free&Beast&Any&2&3&2&
+Boulderfist Ogre&Free&General&Any&6&6&7&
+Healing Totem&Free&Totem&Shaman&1&&2&At the end of your turn, restore 1 Health to all friendly minions.
+Houndmaster&Free&General&Hunter&4&4&3&Battlecry: Give a friendly Beast +2/+2 and Taunt .
+Magma Rager&Free&General&Any&3&5&1&
+Murloc Raider&Free&Murloc&Any&1&2&1&
+Nightblade&Free&General&Any&5&4&4&Battlecry: Deal 3 damage to the enemy hero.
+Northshire Cleric&Free&General&Priest&1&1&3&Whenever a minion is healed, draw a card.
+Novice Engineer&Free&General&Any&2&1&1&Battlecry: Draw a card.
+Oasis Snapjaw&Free&Beast&Any&4&2&7&
+Raid Leader&Free&General&Any&3&2&2&Your other minions have +1 Attack.
+Reckless Rocketeer&Free&General&Any&6&5&2&Charge
+River Crocolisk&Free&Beast&Any&2&2&3&
+Searing Totem&Free&Totem&Shaman&1&1&1&
+Sen'jin Shieldmasta&Free&General&Any&4&3&5&Taunt
+Silver Hand Recruit&Free&General&Paladin&1&1&1&
+Stoneclaw Totem&Free&Totem&Shaman&1&&2&Taunt
+Stonetusk Boar&Free&Beast&Any&1&1&1&Charge
+Succubus&Free&Demon&Warlock&2&4&3&Battlecry: Discard a random card.
+Timber Wolf&Free&Beast&Hunter&1&1&1&Your other Beasts have +1 Attack.
+Voidwalker&Free&Demon&Warlock&1&1&3&Taunt
+Voodoo Doctor&Free&General&Any&1&2&1&Battlecry: Restore 2 Health.
+Warsong Commander&Free&General&Warrior&3&2&3&Whenever you summon a minion with 3 or less Attack, give it Charge .
+Wolfrider&Free&General&Any&3&3&1&Charge
+Wrath of Air Totem&Free&Totem&Shaman&1&&2&Spell Damage +1
+Abusive Sergeant&Common&General&Any&1&2&1&Battlecry: Give a minion +2 Attack this turn.
+Acidic Swamp Ooze&Common&General&Any&2&3&2&Battlecry: Destroy your opponent's weapon.
+Acolyte of Pain&Common&General&Any&3&1&3&Whenever this minion takes damage, draw a card.
+Amani Berserker&Common&General&Any&2&2&3&Enrage: +3 Attack
+Ancient Brewmaster&Common&General&Any&4&5&4&Battlecry: Return a friendly minion from the battlefield to your hand.
+Arathi Weaponsmith&Common&General&Warrior&4&3&3&Battlecry: Equip a 2/2 weapon.
+Archmage&Common&General&Any&6&4&7&Spell Damage +1
+Argent Protector&Common&General&Paladin&2&2&2&Battlecry: Give a friendly minion Divine Shield .
+Argent Squire&Common&General&Any&1&1&1&Divine Shield
+Blood Imp&Common&Demon&Warlock&1&&1&Stealth . At the end of your turn, give another random friendly minion +1 Health.
+Bloodsail Raider&Common&Pirate&Any&2&2&3&Battlecry: Gain Attack equal to the Attack of your weapon.
+Bluegill Warrior&Common&Murloc&Any&2&2&1&Charge
+Boar&Common&Beast&Any&1&1&1&
+Booty Bay Bodyguard&Common&General&Any&5&5&4&Taunt
+Brewmaster&Common&General&Any&4&4&4&
+Chillwind Yeti&Common&General&Any&4&4&5&
+Core Hound&Common&Beast&Any&7&9&5&
+Cruel Taskmaster&Common&General&Warrior&2&2&2&Battlecry: Deal 1 damage to a minion and give it +2 Attack.
+Cult Master&Common&General&Any&4&4&2&Whenever one of your other minions dies, draw a card.
+Dalaran Mage&Common&General&Any&3&1&4&Spell Damage +1
+Damaged Golem&Common&General&Any&1&2&1&
+Dark Iron Dwarf&Common&General&Any&4&4&4&Battlecry: Give a minion +2 Attack this turn.
+Darkscale Healer&Common&General&Any&5&4&5&Battlecry: Restore 2 Health to all friendly characters.
+Defender&Common&General&Paladin&1&2&1&
+Defias Ringleader&Common&General&Rogue&2&2&2&Combo: Summon a 2/1 Defias Bandit.
+Devilsaur&Common&Beast&Any&5&5&5&
+Dire Wolf Alpha&Common&Beast&Any&2&2&2&Adjacent minions have +1 Attack.
+Dragonling Mechanic&Common&General&Any&4&2&4&Battlecry: Summon a 2/1 Mechanical Dragonling.
+Dread Corsair&Common&Pirate&Any&4&3&3&Taunt. Costs (1) less per Attack of your weapon.
+Dread Infernal&Common&Demon&Warlock&6&6&6&Battlecry: Deal 1 damage to ALL other characters.
+Druid of the Claw&Common&General&Druid&5&4&4&Choose One - Charge ; or +2 Health and Taunt .
+Druid of the Claw&Common&General&Druid&5&4&4&Charge
+Druid of the Claw&Common&General&Druid&5&4&6&Taunt
+Dust Devil&Common&General&Shaman&1&3&1&Windfury . Overload: (2)
+Earthen Ring Farseer&Common&General&Any&3&3&3&Battlecry: Restore 3 Health.
+Elven Archer&Common&General&Any&1&1&1&Battlecry: Deal 1 damage.
+Emboldener 3000&Common&General&Any&1&&4&At the end of your turn, give a random minion +1/+1.
+Faerie Dragon&Common&Dragon&Any&2&3&2&Can't be targeted by Spells or Hero Powers.
+Fen Creeper&Common&General&Any&5&3&6&Taunt
+Fire Elemental&Common&General&Shaman&6&6&5&Battlecry: Deal 3 damage.
+Flame Imp&Common&Demon&Warlock&1&3&2&Battlecry: Deal 3 damage to your hero.
+Flametongue Totem&Common&Totem&Shaman&2&&3&Adjacent minions have +2 Attack.
+Flesheating Ghoul&Common&General&Any&3&2&3&Whenever a minion dies, gain +1 Attack. '
+Frog&Common&Beast&Any&&&1&Taunt
+Frost Elemental&Common&General&Any&6&5&5&Battlecry: Freeze a character.
+Frostwolf Grunt&Common&General&Any&2&2&2&Taunt
+Frostwolf Warlord&Common&General&Any&5&4&4&Battlecry: Gain +1/+1 for each other friendly minion on the battlefield.
+Gnomish Inventor&Common&General&Any&4&2&4&Battlecry: Draw a card.
+Goldshire Footman&Common&General&Any&1&1&2&Taunt
+Grimscale Oracle&Common&Murloc&Any&1&1&1&ALL other Murlocs have +1 Attack.
+Guardian of Kings&Common&General&Paladin&7&5&6&Battlecry: Restore 6 Health to your hero.
+Gurubashi Berserker&Common&General&Any&5&2&7&Whenever this minion takes damage, gain +3 Attack.
+Harvest Golem&Common&General&Any&3&2&3&Deathrattle: Summon a 2/1 Damaged Golem.
+Homing Chicken&Common&General&Any&1&&1&At the start of your turn, destroy this minion and draw 3 cards.
+Huffer&Common&Beast&Hunter&3&4&2&Charge
+Infernal&Common&Demon&Warlock&6&6&6&
+Ironbark Protector&Common&General&Druid&8&8&8&Taunt
+Ironbeak Owl&Common&Beast&Any&2&2&1&Battlecry: Silence a minion.
+Ironforge Rifleman&Common&General&Any&3&2&2&Battlecry: Deal 1 damage.
+Ironfur Grizzly&Common&Beast&Any&3&3&3&Taunt
+Jungle Panther&Common&Beast&Any&3&4&2&Stealth
+Kobold Geomancer&Common&General&Any&2&2&2&Spell Damage +1
+Kor'kron Elite&Common&General&Warrior&4&4&3&Charge
+Leokk&Common&Beast&Hunter&3&2&4&Other friendly minions have +1 Attack.
+Leper Gnome&Common&General&Any&1&2&1&Deathrattle: Deal 2 damage to the enemy hero.
+Lightspawn&Common&General&Priest&4&&5&This minion's Attack is always equal to its Health.
+Loot Hoarder&Common&General&Any&2&2&1&Deathrattle: Draw a card.
+Lord of the Arena&Common&General&Any&6&6&5&Taunt
+Mad Bomber&Common&General&Any&2&3&2&Battlecry: Deal 3 damage randomly split between all other characters.
+Mana Wyrm&Common&General&Mage&1&1&3&Whenever you cast a spell, gain +1 Attack.
+Mechanical Dragonling&Common&General&Any&1&2&1&
+Mirror Image&Common&General&Mage&&&2&Taunt
+Misha&Common&Beast&Hunter&3&4&4&Taunt
+Mogu'shan Warden&Common&General&Any&4&1&7&Taunt
+Murloc Scout&Common&Murloc&Any&&1&1&
+Murloc Tidehunter&Common&Murloc&Any&2&2&1&Battlecry: Summon a 1/1 Murloc Scout.
+Ogre Magi&Common&General&Any&4&4&4&Spell Damage +1
+Panther&Common&Beast&Druid&2&3&2&
+Poultryizer&Common&General&Any&1&&3&At the start of your turn, transform a random minion into a 1/1 Chicken.
+Priestess of Elune&Common&General&Any&6&5&4&Battlecry: Restore 4 Health to your hero.
+Raging Worgen&Common&General&Any&3&3&3&Enrage: Windfury and +1 Attack
+Razorfen Hunter&Common&General&Any&3&2&3&Battlecry: Summon a 1/1 Boar.
+Repair Bot&Common&General&Any&1&&3&At the end of your turn, restore 6 Health to a damaged character.
+Scarlet Crusader&Common&General&Any&3&3&1&Divine Shield
+Scavenging Hyena&Common&Beast&Hunter&2&2&2&Whenever a friendly Beast dies, gain +2/+1.
+Shattered Sun Cleric&Common&General&Any&3&3&2&Battlecry: Give a friendly minion +1/+1.
+Sheep&Common&Beast&Any&&1&1&
+Shieldbearer&Common&General&Any&1&&4&Taunt
+Silver Hand Knight&Common&General&Any&5&4&4&Battlecry: Summon a 2/2 Squire.
+Silverback Patriarch&Common&Beast&Any&3&1&4&Taunt
+Silvermoon Guardian&Common&General&Any&4&3&3&Divine Shield
+Snake&Common&Beast&Hunter&&1&1&
+Sorcerer's Apprentice&Common&General&Mage&2&3&2&Your spells cost (1) less.
+Southsea Deckhand&Common&Pirate&Any&1&2&1&Has Charge while you have a weapon equipped.
+Spellbreaker&Common&General&Any&4&4&3&Battlecry: Silence a minion.
+Spiteful Smith&Common&General&Any&5&4&6&Enrage: Your weapon has +2 Attack.
+Squire&Common&General&Any&1&2&2&
+Squirrel&Common&Beast&Any&1&1&1&
+Starving Buzzard&Common&Beast&Hunter&2&2&1&Whenever you summon a Beast, draw a card.
+Stormpike Commando&Common&General&Any&5&4&2&Battlecry: Deal 2 damage.
+Stormwind Champion&Common&General&Any&7&6&6&Your other minions have +1/+1.
+Stormwind Knight&Common&General&Any&4&2&5&Charge
+Stranglethorn Tiger&Common&Beast&Any&5&5&5&Stealth
+Summoning Portal&Common&General&Warlock&4&&4&Your minions cost (2) less, but not less than (1).
+Tauren Warrior&Common&General&Any&3&2&3&Taunt . Enrage: +3 Attack
+Temple Enforcer&Common&General&Priest&6&6&6&Battlecry: Give a friendly minion +3 Health.
+Thrallmar Farseer&Common&General&Any&3&2&3&Windfury
+Treant&Common&General&Druid&1&2&2&Charge .  At the end of the turn, destroy this minion.
+Tundra Rhino&Common&Beast&Hunter&5&2&5&Your Beasts have Charge .
+Unbound Elemental&Common&General&Shaman&3&2&4&Whenever you play a card with Overload , gain +1/+1.
+Venture Co. Mercenary&Common&General&Any&5&7&6&Your minions cost (3) more.
+War Golem&Common&General&Any&7&7&7&
+Water Elemental&Common&General&Mage&4&3&6&Freeze any character damaged by this minion.
+Windfury Harpy&Common&General&Any&6&4&5&Windfury
+Windspeaker&Common&General&Shaman&4&3&3&Battlecry: Give a friendly minion Windfury .
+Wisp&Common&General&Any&&1&1&
+Worgen Infiltrator&Common&General&Any&1&2&1&Stealth
+Worthless Imp&Common&Demon&Warlock&1&1&1&
+Young Dragonhawk&Common&Beast&Any&1&1&1&Windfury
+Youthful Brewmaster&Common&General&Any&2&3&2&Battlecry: Return a friendly minion from the battlefield to your hand.
+Abomination&Rare&General&Any&5&4&4&Taunt . Deathrattle: Deal 2 damage to ALL characters.
+Alarm-o-Bot&Rare&General&Any&3&&3&At the start of your turn, swap this minion with a random one in your hand.
+Aldor Peacekeeper&Rare&General&Paladin&3&3&3&Battlecry: Change an enemy minion's Attack to 1.
+Ancient Mage&Rare&General&Any&4&2&5&Battlecry: Give adjacent minions Spell Damage +1 .
+Ancient Watcher&Rare&General&Any&2&4&5&Can't Attack.
+Angry Chicken&Rare&Beast&Any&1&1&1&Enrage: +5 Attack.
+Arcane Golem&Rare&General&Any&3&4&2&Charge . Battlecry: Give your opponent a Mana Crystal.
+Argent Commander&Rare&General&Any&6&4&2&Charge , Divine Shield
+Armorsmith&Rare&General&Warrior&2&1&4&Whenever a friendly minion takes damage, gain 1 Armor.
+Auchenai Soulpriest&Rare&General&Priest&4&3&5&Your cards and powers that restore Health now deal damage instead.
+Azure Drake&Rare&Dragon&Any&5&4&4&Spell Damage +1 . Battlecry: Draw a card.
+Bloodsail Corsair&Rare&Pirate&Any&1&1&2&Battlecry: Remove 1 Durability from your opponent's weapon.
+Coldlight Oracle&Rare&Murloc&Any&3&2&2&Battlecry: Each player draws 2 cards.
+Coldlight Seer&Rare&Murloc&Any&3&2&3&Battlecry: Give ALL other Murlocs +2 Health.
+Crazed Alchemist&Rare&General&Any&2&2&2&Battlecry: Swap the Attack and Health of a minion.
+Defender of Argus&Rare&General&Any&4&2&3&Battlecry: Give adjacent minions +1/+1 and Taunt .
+Demolisher&Rare&General&Any&3&1&4&At the start of your turn, deal 2 damage to a random enemy.
+Doomguard&Rare&Demon&Warlock&5&5&7&Charge . Battlecry: Discard two random cards.
+Emperor Cobra&Rare&Beast&Any&3&2&3&Destroy any minion damaged by this minion.
+Ethereal Arcanist&Rare&General&Mage&4&3&3&If you control a Secret at the end of your turn, gain +2/+2.
+Felguard&Rare&Demon&Warlock&3&3&5&Taunt . Battlecry: Destroy one of your Mana Crystals.
+Frothing Berserker&Rare&General&Warrior&3&2&4&Whenever a minion takes damage, gain +1 Attack.
+Gadgetzan Auctioneer&Rare&General&Any&5&4&4&Whenever you cast a spell, draw a card.
+Hyena&Rare&Beast&Hunter&2&2&2&
+Imp&Rare&Demon&Any&1&1&1&
+Imp Master&Rare&General&Any&3&1&5&At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.
+Injured Blademaster&Rare&General&Any&3&4&7&Battlecry: Deal 4 damage to HIMSELF.
+Keeper of the Grove&Rare&General&Druid&4&2&4&Choose One - Deal 2 damage; or Silence a minion.
+Kirin Tor Mage&Rare&General&Mage&3&4&3&Battlecry: The next Secret you play this turn costs (0).
+Knife Juggler&Rare&General&Any&2&3&2&After you summon a minion, deal 1 damage to a random enemy.
+Lightwarden&Rare&General&Any&1&1&2&Whenever a character is healed, gain +2 Attack.
+Lightwell&Rare&General&Priest&2&&5&At the start of your turn, restore 3 Health to a damaged friendly character.
+Mana Addict&Rare&General&Any&2&1&3&Whenever you cast a spell, gain +2 Attack this turn.
+Mana Tide Totem&Rare&Totem&Shaman&3&&3&At the end of your turn, draw a card.
+Mana Wraith&Rare&General&Any&2&2&2&ALL minions cost (1) more.
+Master Swordsmith&Rare&General&Any&2&1&3&At the end of your turn, give another random friendly minion +1 Attack.
+Master of Disguise&Rare&General&Rogue&4&4&4&Battlecry: Give a friendly minion Stealth .
+Mind Control Tech&Rare&General&Any&3&3&3&Battlecry: If your opponent has 4 or more minions, take control of one at random.
+Murloc Tidecaller&Rare&Murloc&Any&1&1&2&Whenever a Murloc is summoned, gain +1 Attack.
+Pint-Sized Summoner&Rare&General&Any&2&2&2&The first minion you play each turn costs (1) less.
+Questing Adventurer&Rare&General&Any&3&2&2&Whenever you play a card, gain +1/+1.
+Ravenholdt Assassin&Rare&General&Any&7&7&5&Stealth
+SI:7 Agent&Rare&General&Rogue&3&3&3&Combo: Deal 2 damage.
+Savannah Highmane&Rare&Beast&Hunter&6&6&5&Deathrattle: Summon two 2/2 Hyenas.
+Secretkeeper&Rare&General&Any&1&1&2&Whenever a Secret is played, gain +1/+1.
+Spirit Wolf&Rare&General&Shaman&2&2&3&Taunt
+Stampeding Kodo&Rare&Beast&Any&5&3&5&Battlecry: Destroy a random enemy minion with 2 or less Attack.
+Sunfury Protector&Rare&General&Any&2&2&3&Battlecry: Give adjacent minions Taunt .
+Sunwalker&Rare&General&Any&6&4&5&Taunt . Divine Shield
+Twilight Drake&Rare&Dragon&Any&4&4&1&Battlecry: Gain +1 Health for each card in your hand.
+Violet Teacher&Rare&General&Any&4&3&5&Whenever you cast a spell, summon a 1/1 Violet Apprentice.
+Void Terror&Rare&Demon&Warlock&3&3&3&Battlecry: Destroy the minions on either side of this minion and gain their Attack and Health.
+Wild Pyromancer&Rare&General&Any&2&3&2&After you cast a spell, deal 1 damage to ALL minions.
+Young Priestess&Rare&General&Any&1&2&1&At the end of your turn, give another random friendly minion +1 Health.
+Ancient of Lore&Epic&General&Druid&7&5&5&Choose One - Draw 2 cards; or Restore 5 Health.
+Ancient of War&Epic&General&Druid&7&5&5&Choose One - Taunt and +5 Health; or +5 Attack.
+Big Game Hunter&Epic&General&Any&3&4&2&Battlecry: Destroy a minion with an Attack of 7 or more.
+Blood Knight&Epic&General&Any&3&3&3&Battlecry: All minions lose Divine Shield . Gain +3/+3 for each Shield lost.
+Cabal Shadow Priest&Epic&General&Priest&6&4&5&Battlecry: Take control of an enemy minion that has 2 or less Attack.
+Captain's Parrot&Epic&Beast&Any&2&1&1&Battlecry: Put a random Pirate from your deck into your hand.
+Doomsayer&Epic&General&Any&2&&7&At the start of your turn, destroy ALL minions.
+Earth Elemental&Epic&General&Shaman&5&7&8&Taunt . Overload: (3)
+Faceless Manipulator&Epic&General&Any&5&3&3&Battlecry: Choose a minion and become a copy of it.
+Hungry Crab&Epic&Beast&Any&1&1&2&Battlecry: Destroy a Murloc and gain +2/+2.
+Kidnapper&Epic&General&Rogue&6&5&3&Combo: Return a minion to its owner's hand.
+Molten Giant&Epic&General&Any&20&8&8&Costs (1) less for each damage your hero has taken.
+Mountain Giant&Epic&General&Any&12&8&8&Costs (1) less for each other card in your hand.
+Murloc Warleader&Epic&Murloc&Any&3&3&3&ALL other Murlocs have +2/+1.
+Patient Assassin&Epic&General&Rogue&2&1&1&Stealth . Destroy any minion damaged by this minion.
+Pit Lord&Epic&Demon&Warlock&4&5&6&Battlecry: Deal 5 damage to your hero.
+Sea Giant&Epic&General&Any&10&8&8&Costs (1) less for each other minion on the battlefield.
+Shadow of Nothing&Epic&General&Priest&&&1&Mindgames whiffed! Your opponent had no minions!
+Southsea Captain&Epic&Pirate&Any&3&3&3&Your other Pirates have +1/+1.
+Spellbender&Epic&General&Mage&&1&3&
+Al'Akir the Windlord&Legendary&General&Shaman&8&3&5&Windfury, Charge, Divine Shield, Taunt
+Alexstrasza&Legendary&Dragon&Any&9&8&8&Battlecry: Set a hero's remaining Health to 15.
+Archmage Antonidas&Legendary&General&Mage&7&5&7&Whenever you cast a spell, put a 'Fireball' spell into your hand.
+Baine Bloodhoof&Legendary&General&Any&4&4&5&
+Baron Geddon&Legendary&General&Any&7&7&5&At the end of your turn, deal 2 damage to ALL other characters.
+Bloodmage Thalnos&Legendary&General&Any&2&1&1&Spell Damage +1 . Deathrattle: Draw a card.
+Cairne Bloodhoof&Legendary&General&Any&6&4&5&Deathrattle: Summon a 4/5 Baine Bloodhoof.
+Captain Greenskin&Legendary&Pirate&Any&5&5&4&Battlecry: Give your weapon +1/+1.
+Cenarius&Legendary&General&Druid&9&5&8&Choose One - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt .
+Deathwing&Legendary&Dragon&Any&10&12&12&Battlecry: Destroy all other minions and discard your hand.
+Edwin VanCleef&Legendary&General&Rogue&3&2&2&Combo: Gain +2/+2 for each card played earlier this turn.
+Elite Tauren Chieftain&Legendary&General&Any&5&5&5&Battlecry: Give both players the power to ROCK! (with a Power Chord card)
+Finkle Einhorn&Legendary&General&Any&2&3&3&
+Gelbin Mekkatorque&Legendary&General&Any&6&6&6&Battlecry: Summon an AWESOME invention.
+Grommash Hellscream&Legendary&General&Warrior&8&4&9&Charge . Enrage: +6 Attack
+Gruul&Legendary&General&Any&8&7&7&At the end of each turn, gain +1/+1 .
+Harrison Jones&Legendary&General&Any&5&5&4&Battlecry: Destroy your opponent's weapon and draw cards equal to its Durability.
+Hogger&Legendary&General&Any&6&4&4&At the end of your turn, summon a 2/2 Gnoll with Taunt .
+Illidan Stormrage&Legendary&Demon&Any&6&7&5&Whenever you play a card, summon a 2/1 Flame of Azzinoth.
+King Krush&Legendary&Beast&Hunter&9&8&8&Charge
+King Mukla&Legendary&Beast&Any&3&5&5&Battlecry: Give your opponent 2 Bananas.
+Leeroy Jenkins&Legendary&General&Any&4&6&2&Charge . Battlecry: Summon two 1/1 Whelps for your opponent.
+Lord Jaraxxus&Legendary&Demon&Warlock&9&3&15&Battlecry: Destroy your hero and replace him with Lord Jaraxxus.
+Lorewalker Cho&Legendary&General&Any&2&&4&Whenever a player casts a spell, put a copy into the other player’s hand.
+Malygos&Legendary&Dragon&Any&9&4&12&Spell Damage +5
+Millhouse Manastorm&Legendary&General&Any&2&4&4&Battlecry: Enemy spells cost (0) next turn.
+Nat Pagle&Legendary&General&Any&2&&4&At the end of your turn, you have a 50% chance to draw a card.
+Nozdormu&Legendary&Dragon&Any&9&8&8&Players only have 15 seconds to take their turns.
+Old Murk-Eye&Legendary&Murloc&Any&4&2&4&Charge . Has +1 Attack for each other Murloc on the battlefield.
+Onyxia&Legendary&Dragon&Any&9&8&8&Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.
+Prophet Velen&Legendary&General&Priest&7&7&7&Double the damage and healing of your spells and Hero Power.
+Ragnaros the Firelord&Legendary&General&Any&8&8&8&Can't Attack.  At the end of your turn, deal 8 damage to a random enemy.
+Sylvanas Windrunner&Legendary&General&Any&6&5&5&Deathrattle: Take control of a random enemy minion.
+The Beast&Legendary&Beast&Any&6&9&7&Deathrattle: Summon a 3/3 Finkle Einhorn for your opponent.
+The Black Knight&Legendary&General&Any&6&4&5&Battlecry: Destroy an enemy minion with Taunt .
+Tinkmaster Overspark&Legendary&General&Any&3&2&2&Battlecry: Transform a minion into a 5/5 Devilsaur or a 1/1 Squirrel at random.
+Tirion Fordring&Legendary&General&Paladin&8&6&6&Divine Shield . Taunt . Deathrattle: Equip a 5/3 Ashbringer.
+Ysera&Legendary&Dragon&Any&9&4&12&At the end of your turn, draw a Dream Card.

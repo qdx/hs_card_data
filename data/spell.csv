@@ -1,158 +1,158 @@
-Name,Rarity,Class,Cost,Description
-Bananas,None,Any,1,Give a minion +1/+1.
-I Am Murloc,None,Any,4,Summon three, four, or five 1/1 Murlocs.
-Power of the Horde,None,Any,4,Summon a random Horde Warrior.
-Rogues Do It...,None,Any,4,Deal 4 damage. Draw a card.
-The Coin,None,Any,0,Gain 1 Mana Crystal this turn only.
-Excess Mana,None,Druid,0,Draw a card.
-Claw,Free,Druid,1,Give your hero +2 Attack this turn and 2 Armor.
-Healing Touch,Free,Druid,3,Restore #8 Health.
-Innervate,Free,Druid,0,Gain 2 Mana Crystals this turn only.
-Mark of the Wild,Free,Druid,2,Give a minion Taunt and +2/+2.
-Wild Growth,Free,Druid,2,Gain an empty Mana Crystal.
-Mark of Nature,Common,Druid,3,Choose One - Give a minion +4 Attack; or +4 Health and Taunt .
-Moonfire,Common,Druid,0,Deal 1 damage.
-Naturalize,Common,Druid,1,Destroy a minion. Your opponent draws 2 cards.
-Power of the Wild,Common,Druid,2,Choose One - Give your minions +1/+1; or Summon a 3/2 Panther.
-Savage Roar,Common,Druid,3,Give your characters +2 Attack this turn.
-Soul of the Forest,Common,Druid,4,Give your minions " Deathrattle: Summon a 2/2 Treant."
-Starfire,Common,Druid,6,Deal 5 damage.  Draw a card.
-Swipe,Common,Druid,4,Deal 4 damage to an enemy and 1 damage to all other enemies.
-Wrath,Common,Druid,2,Choose One - Deal 3 damage to a minion; or 1 damage and draw a card.
-Bite,Rare,Druid,4,Give your hero +4 Attack this turn and 4 Armor.
-Nourish,Rare,Druid,5,Choose One - Gain 2 Mana Crystals; or Draw 3 cards.
-Savagery,Rare,Druid,1,Deal damage equal to your hero's Attack to a minion.
-Starfall,Rare,Druid,5,Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.
-Force of Nature,Epic,Druid,6,Summon three 2/2 Treants with Charge that die at the end of the turn.
-Arcane Shot,Free,Hunter,1,Deal 2 damage.
-Multi-Shot,Free,Hunter,4,Deal 3 damage to two random enemy minions.
-Tracking,Free,Hunter,1,Look at the top three cards of your deck. Draw one and discard the others.
-Animal Companion,Common,Hunter,3,Summon a random Beast Companion.
-Deadly Shot,Common,Hunter,3,Destroy a random enemy minion.
-Explosive Trap,Common,Hunter,2,Secret: When your hero is attacked, deal 2 damage to all enemies.
-Freezing Trap,Common,Hunter,2,Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more.
-Hunter's Mark,Common,Hunter,0,Change a minion's Health to 1.
-Kill Command,Common,Hunter,3,Deal 3 damage.  If you have a Beast, deal 5 damage instead.
-Snipe,Common,Hunter,2,Secret: When your opponent plays a minion, deal 4 damage to it.
-Unleash the Hounds,Common,Hunter,2,For each enemy minion, summon a 1/1 Hound with Charge .
-Explosive Shot,Rare,Hunter,5,Deal 5 damage to a minion and 2 damage to adjacent ones.
-Flare,Rare,Hunter,1,All minions lose Stealth . Destroy all enemy Secrets . Draw a card.
-Misdirection,Rare,Hunter,2,Secret: When a character attacks your hero, instead he attacks another random character.
-Bestial Wrath,Epic,Hunter,1,Give a Beast +2 Attack and Immune this turn.
-Snake Trap,Epic,Hunter,2,Secret: When one of your minions is attacked, summon three 1/1 Snakes.
-Arcane Explosion,Free,Mage,2,Deal 1 damage to all enemy minions.
-Arcane Intellect,Free,Mage,3,Draw 2 cards.
-Arcane Missiles,Free,Mage,1,Deal 3 damage randomly split among enemy characters.
-Fireball,Free,Mage,4,Deal 6 damage.
-Polymorph,Free,Mage,4,Transform a minion into a 1/1 Sheep.
-Cone of Cold,Common,Mage,4,Freeze a minion and the minions next to it, and deal 1 damage to them.
-Flamestrike,Common,Mage,7,Deal 4 damage to all enemy minions.
-Frost Nova,Common,Mage,3,Freeze all enemy minions.
-Frostbolt,Common,Mage,2,Deal 3 damage to a character and Freeze it.
-Ice Barrier,Common,Mage,3,Secret: As soon as your hero is attacked, gain 8 Armor.
-Ice Lance,Common,Mage,1,Freeze a character. If it was already Frozen , deal 4 damage instead.
-Mirror Entity,Common,Mage,3,Secret: When your opponent plays a minion, summon a copy of it.
-Mirror Image,Common,Mage,1,Summon two 0/2 minions with Taunt .
-Blizzard,Rare,Mage,6,Deal 2 damage to all enemy minions and Freeze them.
-Counterspell,Rare,Mage,3,Secret: When your opponent casts a spell, Counter it.
-Vaporize,Rare,Mage,3,Secret: When a minion attacks your hero, destroy it.
-Ice Block,Epic,Mage,3,Secret: When your hero takes fatal damage, prevent it and become Immune this turn.
-Pyroblast,Epic,Mage,10,Deal 10 damage.
-Spellbender,Epic,Mage,3,Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target.
-Blessing of Might,Free,Paladin,1,Give a minion +3 Attack.
-Hammer of Wrath,Free,Paladin,4,Deal 3 damage.  Draw a card.
-Hand of Protection,Free,Paladin,1,Give a minion Divine Shield .
-Holy Light,Free,Paladin,2,Restore #6 Health.
-Blessing of Kings,Common,Paladin,4,Give a minion +4/+4.
-Blessing of Wisdom,Common,Paladin,1,Choose a minion.  Whenever it attacks, draw a card.
-Consecration,Common,Paladin,4,Deal 2 damage to all enemies.
-Eye for an Eye,Common,Paladin,1,Secret: When your hero takes damage, deal that much damage to the enemy hero.
-Humility,Common,Paladin,1,Change a minion's Attack to 1.
-Noble Sacrifice,Common,Paladin,1,Secret: When an enemy attacks, summon a 2/1 Defender as the new target.
-Redemption,Common,Paladin,1,Secret: When one of your minions dies, return it to life with 1 Health.
-Repentance,Common,Paladin,1,Secret: When your opponent plays a minion, reduce its Health to 1.
-Blessed Champion,Rare,Paladin,5,Double a minion's Attack.
-Divine Favor,Rare,Paladin,3,Draw cards until you have as many in hand as your opponent.
-Equality,Rare,Paladin,2,Change the Health of ALL minions to 1.
-Holy Wrath,Rare,Paladin,5,Draw a card and deal damage equal to its cost.
-Avenging Wrath,Epic,Paladin,6,Deal 8 damage randomly split among enemy characters.
-Lay on Hands,Epic,Paladin,8,Restore #8 Health. Draw 3 cards.
-Holy Smite,Free,Priest,1,Deal 2 damage.
-Mind Blast,Free,Priest,2,Deal 5 damage to the enemy hero.
-Power Word: Shield,Free,Priest,1,Give a minion +2 Health. '
-Shadow Word: Pain,Free,Priest,2,Destroy a minion with 3 or less Attack.
-Circle of Healing,Common,Priest,0,Restore #4 Health to ALL minions.
-Divine Spirit,Common,Priest,2,Double a minion's Health.
-Holy Nova,Common,Priest,5,Deal 2 damage to all enemies.  Restore #2 Health to all  friendly characters.
-Inner Fire,Common,Priest,1,Change a minion's Attack to be equal to its Health.
-Mind Control,Common,Priest,10,Take control of an enemy minion.
-Mind Vision,Common,Priest,1,Put a copy of a random card in your opponent's hand into your hand.
-Shadow Word: Death,Common,Priest,3,Destroy a minion with an Attack of 5 or more.
-Silence,Common,Priest,0,Silence a minion.
-Thoughtsteal,Common,Priest,3,Copy 2 cards from your opponent's deck and put them into your hand.
-Holy Fire,Rare,Priest,6,Deal 5 damage.  Restore #5 Health to your hero.
-Mass Dispel,Rare,Priest,4,Silence all enemy minions. Draw a card.
-Shadow Madness,Rare,Priest,4,Gain control of an enemy minion with 3 or less Attack until end of turn.
-Mindgames,Epic,Priest,4,Put a copy of a random minion from your opponent's deck into the battlefield.
-Shadowform,Epic,Priest,3,Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
-Assassinate,Free,Rogue,5,Destroy an enemy minion.
-Backstab,Free,Rogue,0,Deal 2 damage to an undamaged minion.
-Deadly Poison,Free,Rogue,1,Give your weapon +2 Attack.
-Sap,Free,Rogue,2,Return an enemy minion to your opponent's hand.
-Sinister Strike,Free,Rogue,1,Deal 3 damage to the enemy hero.
-Betrayal,Common,Rogue,2,An enemy minion deals its damage to the minions next to it.
-Cold Blood,Common,Rogue,1,Give a minion +2 Attack. Combo: +4 Attack instead.
-Conceal,Common,Rogue,1,Give your minions Stealth until your next turn.
-Eviscerate,Common,Rogue,2,Deal 2 damage. Combo: Deal 4 damage instead.
-Fan of Knives,Common,Rogue,3,Deal 1 damage to all enemy minions. Draw a card.
-Shadowstep,Common,Rogue,0,Return a friendly minion to your hand. It costs (2) less.
-Shiv,Common,Rogue,2,Deal 1 damage. Draw a card.
-Sprint,Common,Rogue,7,Draw 4 cards.
-Vanish,Common,Rogue,6,Return all minions to their owner's hand.
-Blade Flurry,Rare,Rogue,2,Destroy your weapon and deal its damage to all enemies.
-Headcrack,Rare,Rogue,3,Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn.
-Preparation,Epic,Rogue,0,The next spell you cast this turn costs (3) less.
-Ancestral Healing,Free,Shaman,0,Restore a minion to full Health and give it Taunt .
-Frost Shock,Free,Shaman,1,Deal 1 damage to an enemy character and Freeze it.
-Hex,Free,Shaman,3,Transform a minion into a 0/1 Frog with Taunt .
-Rockbiter Weapon,Free,Shaman,1,Give a friendly character +3 Attack this turn.
-Windfury,Free,Shaman,2,Give a minion Windfury .
-Bloodlust,Common,Shaman,5,Give your minions +3 Attack this turn.
-Earth Shock,Common,Shaman,1,Silence a minion, then deal 1 damage to it.
-Forked Lightning,Common,Shaman,1,Deal 2 damage to 2 random enemy minions. Overload: (2)
-Lightning Bolt,Common,Shaman,1,Deal 3 damage. Overload: (1)
-Totemic Might,Common,Shaman,0,Give your Totems +2 Health.
-Ancestral Spirit,Rare,Shaman,2,Choose a minion. When that minion is destroyed, return it to the battlefield.
-Feral Spirit,Rare,Shaman,3,Summon two 2/3 Spirit Wolves with Taunt . Overload: (2)
-Lava Burst,Rare,Shaman,3,Deal 5 damage. Overload: (2)
-Lightning Storm,Rare,Shaman,3,Deal 2-3 damage to all enemy minions. Overload: (2)
-Far Sight,Epic,Shaman,3,Draw a card. That card costs (3) less.
-Drain Life,Free,Warlock,3,Deal 2 damage. Restore #2 Health to your hero.
-Hellfire,Free,Warlock,4,Deal 3 damage to ALL characters.
-Shadow Bolt,Free,Warlock,3,Deal 4 damage to a minion.
-Corruption,Common,Warlock,1,Choose an enemy minion.   At the start of your turn, destroy it.
-Demonfire,Common,Warlock,2,Deal 2 damage to a minion.   If it’s a friendly Demon, give it +2/+2 instead.
-Mortal Coil,Common,Warlock,1,Deal 1 damage to a minion. If that kills it, draw a card.
-Power Overwhelming,Common,Warlock,1,Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.
-Sacrificial Pact,Common,Warlock,0,Destroy a Demon. Restore #5 Health to your hero.
-Sense Demons,Common,Warlock,3,Put 2 random Demons from your deck into your hand.
-Soulfire,Common,Warlock,0,Deal 4 damage. Discard a random card.
-Shadowflame,Rare,Warlock,4,Destroy a friendly minion and deal its Attack damage to all enemy minions.
-Siphon Soul,Rare,Warlock,6,Destroy a minion. Restore #3 Health to your hero.
-Bane of Doom,Epic,Warlock,5,Deal 2 damage to a character.  If that kills it, summon a random Demon.
-Twisting Nether,Epic,Warlock,8,Destroy all minions.
-Charge,Free,Warrior,3,Give a friendly minion +2 Attack and Charge .
-Execute,Free,Warrior,1,Destroy a damaged enemy minion.
-Heroic Strike,Free,Warrior,2,Give your hero +4 Attack this turn.
-Battle Rage,Common,Warrior,2,Draw a card for each damaged friendly character.
-Cleave,Common,Warrior,2,Deal 2 damage to two random enemy minions.
-Inner Rage,Common,Warrior,0,Deal 1 damage to a minion and give it +2 Attack.
-Rampage,Common,Warrior,2,Give a damaged minion +3/+3.
-Shield Block,Common,Warrior,3,Gain 5 Armor.  Draw a card.
-Slam,Common,Warrior,2,Deal 2 damage to a minion.  If it survives, draw a card.
-Whirlwind,Common,Warrior,1,Deal 1 damage to ALL minions.
-Commanding Shout,Rare,Warrior,2,Your minions can't be reduced below 1 Health this turn.  Draw a card.
-Mortal Strike,Rare,Warrior,4,Deal 4 damage.  If your hero has 12 or less Health, deal 6 damage instead.
-Upgrade!,Rare,Warrior,1,If you have a weapon, give it +1/+1.  Otherwise equip a 1/3 weapon.
-Brawl,Epic,Warrior,5,Destroy all minions except one.  (chosen randomly)
-Shield Slam,Epic,Warrior,1,Deal 1 damage to a minion for each Armor you have.
+Name&Rarity&Class&Cost&Description
+Bananas&None&Any&1&Give a minion +1/+1.
+I Am Murloc&None&Any&4&Summon three, four, or five 1/1 Murlocs.
+Power of the Horde&None&Any&4&Summon a random Horde Warrior.
+Rogues Do It...&None&Any&4&Deal 4 damage. Draw a card.
+The Coin&None&Any&0&Gain 1 Mana Crystal this turn only.
+Excess Mana&None&Druid&0&Draw a card.
+Claw&Free&Druid&1&Give your hero +2 Attack this turn and 2 Armor.
+Healing Touch&Free&Druid&3&Restore #8 Health.
+Innervate&Free&Druid&0&Gain 2 Mana Crystals this turn only.
+Mark of the Wild&Free&Druid&2&Give a minion Taunt and +2/+2.
+Wild Growth&Free&Druid&2&Gain an empty Mana Crystal.
+Mark of Nature&Common&Druid&3&Choose One - Give a minion +4 Attack; or +4 Health and Taunt .
+Moonfire&Common&Druid&0&Deal 1 damage.
+Naturalize&Common&Druid&1&Destroy a minion. Your opponent draws 2 cards.
+Power of the Wild&Common&Druid&2&Choose One - Give your minions +1/+1; or Summon a 3/2 Panther.
+Savage Roar&Common&Druid&3&Give your characters +2 Attack this turn.
+Soul of the Forest&Common&Druid&4&Give your minions " Deathrattle: Summon a 2/2 Treant."
+Starfire&Common&Druid&6&Deal 5 damage.  Draw a card.
+Swipe&Common&Druid&4&Deal 4 damage to an enemy and 1 damage to all other enemies.
+Wrath&Common&Druid&2&Choose One - Deal 3 damage to a minion; or 1 damage and draw a card.
+Bite&Rare&Druid&4&Give your hero +4 Attack this turn and 4 Armor.
+Nourish&Rare&Druid&5&Choose One - Gain 2 Mana Crystals; or Draw 3 cards.
+Savagery&Rare&Druid&1&Deal damage equal to your hero's Attack to a minion.
+Starfall&Rare&Druid&5&Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.
+Force of Nature&Epic&Druid&6&Summon three 2/2 Treants with Charge that die at the end of the turn.
+Arcane Shot&Free&Hunter&1&Deal 2 damage.
+Multi-Shot&Free&Hunter&4&Deal 3 damage to two random enemy minions.
+Tracking&Free&Hunter&1&Look at the top three cards of your deck. Draw one and discard the others.
+Animal Companion&Common&Hunter&3&Summon a random Beast Companion.
+Deadly Shot&Common&Hunter&3&Destroy a random enemy minion.
+Explosive Trap&Common&Hunter&2&Secret: When your hero is attacked, deal 2 damage to all enemies.
+Freezing Trap&Common&Hunter&2&Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more.
+Hunter's Mark&Common&Hunter&0&Change a minion's Health to 1.
+Kill Command&Common&Hunter&3&Deal 3 damage.  If you have a Beast, deal 5 damage instead.
+Snipe&Common&Hunter&2&Secret: When your opponent plays a minion, deal 4 damage to it.
+Unleash the Hounds&Common&Hunter&2&For each enemy minion, summon a 1/1 Hound with Charge .
+Explosive Shot&Rare&Hunter&5&Deal 5 damage to a minion and 2 damage to adjacent ones.
+Flare&Rare&Hunter&1&All minions lose Stealth . Destroy all enemy Secrets . Draw a card.
+Misdirection&Rare&Hunter&2&Secret: When a character attacks your hero, instead he attacks another random character.
+Bestial Wrath&Epic&Hunter&1&Give a Beast +2 Attack and Immune this turn.
+Snake Trap&Epic&Hunter&2&Secret: When one of your minions is attacked, summon three 1/1 Snakes.
+Arcane Explosion&Free&Mage&2&Deal 1 damage to all enemy minions.
+Arcane Intellect&Free&Mage&3&Draw 2 cards.
+Arcane Missiles&Free&Mage&1&Deal 3 damage randomly split among enemy characters.
+Fireball&Free&Mage&4&Deal 6 damage.
+Polymorph&Free&Mage&4&Transform a minion into a 1/1 Sheep.
+Cone of Cold&Common&Mage&4&Freeze a minion and the minions next to it, and deal 1 damage to them.
+Flamestrike&Common&Mage&7&Deal 4 damage to all enemy minions.
+Frost Nova&Common&Mage&3&Freeze all enemy minions.
+Frostbolt&Common&Mage&2&Deal 3 damage to a character and Freeze it.
+Ice Barrier&Common&Mage&3&Secret: As soon as your hero is attacked, gain 8 Armor.
+Ice Lance&Common&Mage&1&Freeze a character. If it was already Frozen , deal 4 damage instead.
+Mirror Entity&Common&Mage&3&Secret: When your opponent plays a minion, summon a copy of it.
+Mirror Image&Common&Mage&1&Summon two 0/2 minions with Taunt .
+Blizzard&Rare&Mage&6&Deal 2 damage to all enemy minions and Freeze them.
+Counterspell&Rare&Mage&3&Secret: When your opponent casts a spell, Counter it.
+Vaporize&Rare&Mage&3&Secret: When a minion attacks your hero, destroy it.
+Ice Block&Epic&Mage&3&Secret: When your hero takes fatal damage, prevent it and become Immune this turn.
+Pyroblast&Epic&Mage&10&Deal 10 damage.
+Spellbender&Epic&Mage&3&Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target.
+Blessing of Might&Free&Paladin&1&Give a minion +3 Attack.
+Hammer of Wrath&Free&Paladin&4&Deal 3 damage.  Draw a card.
+Hand of Protection&Free&Paladin&1&Give a minion Divine Shield .
+Holy Light&Free&Paladin&2&Restore #6 Health.
+Blessing of Kings&Common&Paladin&4&Give a minion +4/+4.
+Blessing of Wisdom&Common&Paladin&1&Choose a minion.  Whenever it attacks, draw a card.
+Consecration&Common&Paladin&4&Deal 2 damage to all enemies.
+Eye for an Eye&Common&Paladin&1&Secret: When your hero takes damage, deal that much damage to the enemy hero.
+Humility&Common&Paladin&1&Change a minion's Attack to 1.
+Noble Sacrifice&Common&Paladin&1&Secret: When an enemy attacks, summon a 2/1 Defender as the new target.
+Redemption&Common&Paladin&1&Secret: When one of your minions dies, return it to life with 1 Health.
+Repentance&Common&Paladin&1&Secret: When your opponent plays a minion, reduce its Health to 1.
+Blessed Champion&Rare&Paladin&5&Double a minion's Attack.
+Divine Favor&Rare&Paladin&3&Draw cards until you have as many in hand as your opponent.
+Equality&Rare&Paladin&2&Change the Health of ALL minions to 1.
+Holy Wrath&Rare&Paladin&5&Draw a card and deal damage equal to its cost.
+Avenging Wrath&Epic&Paladin&6&Deal 8 damage randomly split among enemy characters.
+Lay on Hands&Epic&Paladin&8&Restore #8 Health. Draw 3 cards.
+Holy Smite&Free&Priest&1&Deal 2 damage.
+Mind Blast&Free&Priest&2&Deal 5 damage to the enemy hero.
+Power Word: Shield&Free&Priest&1&Give a minion +2 Health. '
+Shadow Word: Pain&Free&Priest&2&Destroy a minion with 3 or less Attack.
+Circle of Healing&Common&Priest&0&Restore #4 Health to ALL minions.
+Divine Spirit&Common&Priest&2&Double a minion's Health.
+Holy Nova&Common&Priest&5&Deal 2 damage to all enemies.  Restore #2 Health to all  friendly characters.
+Inner Fire&Common&Priest&1&Change a minion's Attack to be equal to its Health.
+Mind Control&Common&Priest&10&Take control of an enemy minion.
+Mind Vision&Common&Priest&1&Put a copy of a random card in your opponent's hand into your hand.
+Shadow Word: Death&Common&Priest&3&Destroy a minion with an Attack of 5 or more.
+Silence&Common&Priest&0&Silence a minion.
+Thoughtsteal&Common&Priest&3&Copy 2 cards from your opponent's deck and put them into your hand.
+Holy Fire&Rare&Priest&6&Deal 5 damage.  Restore #5 Health to your hero.
+Mass Dispel&Rare&Priest&4&Silence all enemy minions. Draw a card.
+Shadow Madness&Rare&Priest&4&Gain control of an enemy minion with 3 or less Attack until end of turn.
+Mindgames&Epic&Priest&4&Put a copy of a random minion from your opponent's deck into the battlefield.
+Shadowform&Epic&Priest&3&Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
+Assassinate&Free&Rogue&5&Destroy an enemy minion.
+Backstab&Free&Rogue&0&Deal 2 damage to an undamaged minion.
+Deadly Poison&Free&Rogue&1&Give your weapon +2 Attack.
+Sap&Free&Rogue&2&Return an enemy minion to your opponent's hand.
+Sinister Strike&Free&Rogue&1&Deal 3 damage to the enemy hero.
+Betrayal&Common&Rogue&2&An enemy minion deals its damage to the minions next to it.
+Cold Blood&Common&Rogue&1&Give a minion +2 Attack. Combo: +4 Attack instead.
+Conceal&Common&Rogue&1&Give your minions Stealth until your next turn.
+Eviscerate&Common&Rogue&2&Deal 2 damage. Combo: Deal 4 damage instead.
+Fan of Knives&Common&Rogue&3&Deal 1 damage to all enemy minions. Draw a card.
+Shadowstep&Common&Rogue&0&Return a friendly minion to your hand. It costs (2) less.
+Shiv&Common&Rogue&2&Deal 1 damage. Draw a card.
+Sprint&Common&Rogue&7&Draw 4 cards.
+Vanish&Common&Rogue&6&Return all minions to their owner's hand.
+Blade Flurry&Rare&Rogue&2&Destroy your weapon and deal its damage to all enemies.
+Headcrack&Rare&Rogue&3&Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn.
+Preparation&Epic&Rogue&0&The next spell you cast this turn costs (3) less.
+Ancestral Healing&Free&Shaman&0&Restore a minion to full Health and give it Taunt .
+Frost Shock&Free&Shaman&1&Deal 1 damage to an enemy character and Freeze it.
+Hex&Free&Shaman&3&Transform a minion into a 0/1 Frog with Taunt .
+Rockbiter Weapon&Free&Shaman&1&Give a friendly character +3 Attack this turn.
+Windfury&Free&Shaman&2&Give a minion Windfury .
+Bloodlust&Common&Shaman&5&Give your minions +3 Attack this turn.
+Earth Shock&Common&Shaman&1&Silence a minion, then deal 1 damage to it.
+Forked Lightning&Common&Shaman&1&Deal 2 damage to 2 random enemy minions. Overload: (2)
+Lightning Bolt&Common&Shaman&1&Deal 3 damage. Overload: (1)
+Totemic Might&Common&Shaman&0&Give your Totems +2 Health.
+Ancestral Spirit&Rare&Shaman&2&Choose a minion. When that minion is destroyed, return it to the battlefield.
+Feral Spirit&Rare&Shaman&3&Summon two 2/3 Spirit Wolves with Taunt . Overload: (2)
+Lava Burst&Rare&Shaman&3&Deal 5 damage. Overload: (2)
+Lightning Storm&Rare&Shaman&3&Deal 2-3 damage to all enemy minions. Overload: (2)
+Far Sight&Epic&Shaman&3&Draw a card. That card costs (3) less.
+Drain Life&Free&Warlock&3&Deal 2 damage. Restore #2 Health to your hero.
+Hellfire&Free&Warlock&4&Deal 3 damage to ALL characters.
+Shadow Bolt&Free&Warlock&3&Deal 4 damage to a minion.
+Corruption&Common&Warlock&1&Choose an enemy minion.   At the start of your turn, destroy it.
+Demonfire&Common&Warlock&2&Deal 2 damage to a minion.   If it’s a friendly Demon, give it +2/+2 instead.
+Mortal Coil&Common&Warlock&1&Deal 1 damage to a minion. If that kills it, draw a card.
+Power Overwhelming&Common&Warlock&1&Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.
+Sacrificial Pact&Common&Warlock&0&Destroy a Demon. Restore #5 Health to your hero.
+Sense Demons&Common&Warlock&3&Put 2 random Demons from your deck into your hand.
+Soulfire&Common&Warlock&0&Deal 4 damage. Discard a random card.
+Shadowflame&Rare&Warlock&4&Destroy a friendly minion and deal its Attack damage to all enemy minions.
+Siphon Soul&Rare&Warlock&6&Destroy a minion. Restore #3 Health to your hero.
+Bane of Doom&Epic&Warlock&5&Deal 2 damage to a character.  If that kills it, summon a random Demon.
+Twisting Nether&Epic&Warlock&8&Destroy all minions.
+Charge&Free&Warrior&3&Give a friendly minion +2 Attack and Charge .
+Execute&Free&Warrior&1&Destroy a damaged enemy minion.
+Heroic Strike&Free&Warrior&2&Give your hero +4 Attack this turn.
+Battle Rage&Common&Warrior&2&Draw a card for each damaged friendly character.
+Cleave&Common&Warrior&2&Deal 2 damage to two random enemy minions.
+Inner Rage&Common&Warrior&0&Deal 1 damage to a minion and give it +2 Attack.
+Rampage&Common&Warrior&2&Give a damaged minion +3/+3.
+Shield Block&Common&Warrior&3&Gain 5 Armor.  Draw a card.
+Slam&Common&Warrior&2&Deal 2 damage to a minion.  If it survives, draw a card.
+Whirlwind&Common&Warrior&1&Deal 1 damage to ALL minions.
+Commanding Shout&Rare&Warrior&2&Your minions can't be reduced below 1 Health this turn.  Draw a card.
+Mortal Strike&Rare&Warrior&4&Deal 4 damage.  If your hero has 12 or less Health, deal 6 damage instead.
+Upgrade!&Rare&Warrior&1&If you have a weapon, give it +1/+1.  Otherwise equip a 1/3 weapon.
+Brawl&Epic&Warrior&5&Destroy all minions except one.  (chosen randomly)
+Shield Slam&Epic&Warrior&1&Deal 1 damage to a minion for each Armor you have.
