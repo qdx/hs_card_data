@@ -3,6 +3,10 @@ import codecs
 import CellParser
 from bs4 import BeautifulSoup
 
+# FIXME: A bug is observed that, card description that has comma
+# have their content after comma lost, find out why and fix it
+
+
 def get_clean_cardtable(soup):
     soup_table = soup.find(class_="cardtable")
     for n in soup.find_all(class_="narrowonly"):
