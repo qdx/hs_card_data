@@ -3,9 +3,6 @@ import codecs
 import CellParser
 from bs4 import BeautifulSoup
 
-# FIXME: A bug is observed that, card description that has comma
-# have their content after comma lost, find out why and fix it
-
 
 def get_clean_cardtable(soup):
     soup_table = soup.find(class_="cardtable")
@@ -41,7 +38,7 @@ def parse_table(table, path, parser):
     # parse table head
     table_head = parse_table_head(table.tr)
     # write table head
-    f.write(','.join(table_head) + '\n')
+    f.write('&'.join(table_head) + '\n')
     # delete the table head from the DOM tree in order to keep parsing
     table.tr.decompose()
     for tr in table.find_all('tr'):
@@ -50,7 +47,7 @@ def parse_table(table, path, parser):
             continue
         indexed_tds = zip(table_head, tds)
         row = [parser.parse_cell(i[0], i[1]) for i in indexed_tds]
-        f.write(','.join(row) + '\n')
+        f.write('&'.join(row) + '\n')
     f.close()
 
 

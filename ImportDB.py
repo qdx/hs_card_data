@@ -5,9 +5,9 @@ from Models import *
 def import_csv_to_db(path, card_type):
     db.connect()
     f = codecs.open(path, 'r', 'utf-8')
-    head = f.readline().strip().split(',')
+    head = f.readline().strip().split('&')
     for row in f:
-        row_data = row.strip().split(',')
+        row_data = row.strip().split('&')
         data_pair = zip(head, row_data)
         card = Card()
         for i in data_pair:
