@@ -17,7 +17,8 @@ Run ``` python crawler.py ``` and you will find a ```./data/``` directory that s
  1. Create a file named ```local.cfg``` in root of this repo
  2. Write you MySQL config to the cfg file, here is an example 
 
-     ```[mysql]
+     ```
+        [mysql]
         hs_db   = hearth_stone
         host    = localhost
         port    = 3306
