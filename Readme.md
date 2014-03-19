@@ -8,6 +8,13 @@ This project attempt to keep an card data db and api for further use.
 * peewee: pip isntall peewee
 If you are using pip as the package manager just like me
 
+## How to use
+Run "python crawler.py" and you will find a "./data/" directory that
+stores all the card data. 
+
+You can import thoes data into a MySQL database by running 
+"python ImportDB.py" after the data are fetched from the web.
+
 ## Data Source
 Currently, the data source is from:  
 http://hearthstone.gamepedia.com/  
