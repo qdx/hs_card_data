@@ -1,6 +1,7 @@
 import requests
 import codecs
 import CellParser
+import os
 from bs4 import BeautifulSoup
 
 
@@ -71,11 +72,16 @@ def fetch_parse_data(url, path, parser):
     cards = get_clean_cardtable(soup)
     parse_table(cards, path, parser)
 
+# create a directory to store the data
+path_str = "./data/"
+if not os.path.isdir(path_str):
+    os.makedirs(path_str)
 
 parser = get_hs_gamepedia_parser()
+
 fetch_parse_data("http://hearthstone.gamepedia.com/Minion",
-                 "./data/minions.csv", parser)
+                 path_str + "minions.csv", parser)
 fetch_parse_data("http://hearthstone.gamepedia.com/Spell_cards",
-                 "./data/spell.csv", parser)
+                 path_str + "spell.csv", parser)
 fetch_parse_data("http://hearthstone.gamepedia.com/Equipment_cards",
-                 "./data/weapon.csv", parser)
+                 path_str + "weapon.csv", parser)
