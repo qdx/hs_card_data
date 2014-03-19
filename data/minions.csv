@@ -66,9 +66,9 @@ Dire Wolf Alpha&Common&Beast&Any&2&2&2&Adjacent minions have +1 Attack.
 Dragonling Mechanic&Common&General&Any&4&2&4&Battlecry: Summon a 2/1 Mechanical Dragonling.
 Dread Corsair&Common&Pirate&Any&4&3&3&Taunt. Costs (1) less per Attack of your weapon.
 Dread Infernal&Common&Demon&Warlock&6&6&6&Battlecry: Deal 1 damage to ALL other characters.
-Druid of the Claw&Common&General&Druid&5&4&4&Choose One - Charge ; or +2 Health and Taunt .
 Druid of the Claw&Common&General&Druid&5&4&4&Charge
 Druid of the Claw&Common&General&Druid&5&4&6&Taunt
+Druid of the Claw&Common&General&Druid&5&4&4&Choose One - Charge ; or +2 Health and Taunt .
 Dust Devil&Common&General&Shaman&1&3&1&Windfury . Overload: (2)
 Earthen Ring Farseer&Common&General&Any&3&3&3&Battlecry: Restore 3 Health.
 Elven Archer&Common&General&Any&1&1&1&Battlecry: Deal 1 damage.
@@ -256,7 +256,7 @@ Lord Jaraxxus&Legendary&Demon&Warlock&9&3&15&Battlecry: Destroy your hero and re
 Lorewalker Cho&Legendary&General&Any&2&&4&Whenever a player casts a spell, put a copy into the other player’s hand.
 Malygos&Legendary&Dragon&Any&9&4&12&Spell Damage +5
 Millhouse Manastorm&Legendary&General&Any&2&4&4&Battlecry: Enemy spells cost (0) next turn.
-Nat Pagle&Legendary&General&Any&2&&4&At the end of your turn, you have a 50% chance to draw a card.
+Nat Pagle&Legendary&General&Any&2&&4&At the start of your turn, you have a 50% chance to draw an extra card.
 Nozdormu&Legendary&Dragon&Any&9&8&8&Players only have 15 seconds to take their turns.
 Old Murk-Eye&Legendary&Murloc&Any&4&2&4&Charge . Has +1 Attack for each other Murloc on the battlefield.
 Onyxia&Legendary&Dragon&Any&9&8&8&Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.
@@ -265,6 +265,6 @@ Ragnaros the Firelord&Legendary&General&Any&8&8&8&Can't Attack.  At the end of y
 Sylvanas Windrunner&Legendary&General&Any&6&5&5&Deathrattle: Take control of a random enemy minion.
 The Beast&Legendary&Beast&Any&6&9&7&Deathrattle: Summon a 3/3 Finkle Einhorn for your opponent.
 The Black Knight&Legendary&General&Any&6&4&5&Battlecry: Destroy an enemy minion with Taunt .
-Tinkmaster Overspark&Legendary&General&Any&3&2&2&Battlecry: Transform a minion into a 5/5 Devilsaur or a 1/1 Squirrel at random.
+Tinkmaster Overspark&Legendary&General&Any&3&3&3&Battlecry: Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.
 Tirion Fordring&Legendary&General&Paladin&8&6&6&Divine Shield . Taunt . Deathrattle: Equip a 5/3 Ashbringer.
 Ysera&Legendary&Dragon&Any&9&4&12&At the end of your turn, draw a Dream Card.
