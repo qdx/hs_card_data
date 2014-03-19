@@ -9,11 +9,20 @@ This project attempt to keep an card data db and api for further use.
 If you are using pip as the package manager just like me
 
 ## How to use
-Run "python crawler.py" and you will find a "./data/" directory that
-stores all the card data. 
+#### Fetch data from online
+Run ``` python crawler.py ``` and you will find a ```./data/``` directory that stores all the card data. 
 
-You can import thoes data into a MySQL database by running 
-"python ImportDB.py" after the data are fetched from the web.
+#### Import into MySQL
+
+ 1. Create a file named ```local.cfg``` in root of this repo
+ 2. Write you MySQL config to the cfg file, here is an example 
+     ``` [mysql]
+        hs_db   = hearth_stone
+        host    = localhost
+        port    = 3306
+        user    = root
+        passwd  = root  ```
+ 3. Run ```python ImportDB.py``` then you should have your data in a table named ```card```.
 
 ## Data Source
 Currently, the data source is from:  
