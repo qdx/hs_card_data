@@ -16,12 +16,15 @@ Run ``` python crawler.py ``` and you will find a ```./data/``` directory that s
 
  1. Create a file named ```local.cfg``` in root of this repo
  2. Write you MySQL config to the cfg file, here is an example 
-     ``` [mysql]
+
+     ```[mysql]
         hs_db   = hearth_stone
         host    = localhost
         port    = 3306
         user    = root
-        passwd  = root  ```
+        passwd  = root
+    ```
+
  3. Run ```python ImportDB.py``` then you should have your data in a table named ```card```.
 
 ## Data Source
