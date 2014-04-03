@@ -19,7 +19,7 @@ Table Card:
 
 
 config = ConfigParser.RawConfigParser()
-config.read('local.cfg')
+config.read('../local.cfg')
 db = MySQLDatabase(config.get('mysql', 'hs_db'),
                    host   = config.get('mysql', 'host'),
                    port   = config.getint('mysql', 'port'),
@@ -64,7 +64,7 @@ class Card(BaseModel):
                 self.Atk = value
                 break
             if case('HP'):
-                self.HP= value
+                self.HP = value
                 break
             if case('Description'):
                 self.Description = value
