@@ -34,7 +34,7 @@ Freezing Trap&Common&Hunter&2&Secret: When an enemy minion attacks, return it to
 Hunter's Mark&Common&Hunter&0&Change a minion's Health to 1.
 Kill Command&Common&Hunter&3&Deal 3 damage.  If you have a Beast, deal 5 damage instead.
 Snipe&Common&Hunter&2&Secret: When your opponent plays a minion, deal 4 damage to it.
-Unleash the Hounds&Common&Hunter&2&For each enemy minion, summon a 1/1 Hound with Charge .
+Unleash the Hounds&Common&Hunter&3&For each enemy minion, summon a 1/1 Hound with Charge .
 Explosive Shot&Rare&Hunter&5&Deal 5 damage to a minion and 2 damage to adjacent ones.
 Flare&Rare&Hunter&1&All minions lose Stealth . Destroy all enemy Secrets . Draw a card.
 Misdirection&Rare&Hunter&2&Secret: When a character attacks your hero, instead he attacks another random character.
@@ -100,7 +100,7 @@ Backstab&Free&Rogue&0&Deal 2 damage to an undamaged minion.
 Deadly Poison&Free&Rogue&1&Give your weapon +2 Attack.
 Sap&Free&Rogue&2&Return an enemy minion to your opponent's hand.
 Sinister Strike&Free&Rogue&1&Deal 3 damage to the enemy hero.
-Betrayal&Common&Rogue&2&An enemy minion deals its damage to the minions next to it.
+Betrayal&Common&Rogue&2&Force an enemy minion to deal its damage to the minions next to it.
 Cold Blood&Common&Rogue&1&Give a minion +2 Attack. Combo: +4 Attack instead.
 Conceal&Common&Rogue&1&Give your minions Stealth until your next turn.
 Eviscerate&Common&Rogue&2&Deal 2 damage. Combo: Deal 4 damage instead.
@@ -152,7 +152,7 @@ Shield Block&Common&Warrior&3&Gain 5 Armor.  Draw a card.
 Slam&Common&Warrior&2&Deal 2 damage to a minion.  If it survives, draw a card.
 Whirlwind&Common&Warrior&1&Deal 1 damage to ALL minions.
 Commanding Shout&Rare&Warrior&2&Your minions can't be reduced below 1 Health this turn.  Draw a card.
-Mortal Strike&Rare&Warrior&4&Deal 4 damage.  If your hero has 12 or less Health, deal 6 damage instead.
+Mortal Strike&Rare&Warrior&4&Deal 4 damage.  If you have 12 or less Health, deal 6 instead.
 Upgrade!&Rare&Warrior&1&If you have a weapon, give it +1/+1.  Otherwise equip a 1/3 weapon.
 Brawl&Epic&Warrior&5&Destroy all minions except one.  (chosen randomly)
 Shield Slam&Epic&Warrior&1&Deal 1 damage to a minion for each Armor you have.
